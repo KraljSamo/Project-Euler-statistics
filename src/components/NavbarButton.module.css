@@ -1,0 +1,24 @@
+.navbar-button {
+  width: 100%;
+  border-bottom: 1px solid white;
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-button:hover {
+  background-color: rgb(71, 48, 5);
+}
+
+a {
+  color: lightgoldenrodyellow;
+}
+
+.active {
+  background-color: aqua;
+}
+
+a:hover {
+  text-decoration: none;
+  color: lightgoldenrodyellow;
+}
