@@ -5,7 +5,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === `UsersJson`) {
-    const slug = slugify(node.username)
+    const slug = slugify(node.username, {remove: "."})
     createNodeField({
       node,
       name: `slug`,
