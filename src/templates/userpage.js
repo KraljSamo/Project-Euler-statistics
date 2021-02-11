@@ -1,21 +1,21 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import styles from "./userpage.module.css"
+import "./userpage.module.css"
 
 export default function UserPage({ data }) {
 
   function getProblem(number){
-    return data.allProblemsJson.edges.filter(({ node }) => node.problem_number == number)[0].node
+    return data.allProblemsJson.edges.filter(({ node }) => node.problem_number === number)[0].node
   }
 
   return (
     <Layout>
       <h1>User profile: {data.usersJson.username}</h1>
       <p>Nek tekst</p>
-      <div>First places: {data.usersJson.standings.filter(item => item.place == 1).length}</div>
-      <div>Second places: {data.usersJson.standings.filter(item => item.place == 2).length}</div>
-      <div>Third places: {data.usersJson.standings.filter(item => item.place == 3).length}</div>
+      <div>First places: {data.usersJson.standings.filter(item => item.place === 1).length}</div>
+      <div>Second places: {data.usersJson.standings.filter(item => item.place === 2).length}</div>
+      <div>Third places: {data.usersJson.standings.filter(item => item.place === 3).length}</div>
       <div>Top 10 finishes: {data.usersJson.standings.filter(item => item.place <= 10).length}</div>
       <div>Top 50 finishes: {data.usersJson.standings.filter(item => item.place <= 50).length}</div>
       <div>In the fastest solvers table: {data.usersJson.standings.filter(item => item.place <= 100).length}</div>

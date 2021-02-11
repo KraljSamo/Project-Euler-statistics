@@ -6,14 +6,7 @@ export default function UserPage({ data }) {
   const [filteredUsers, setFilteredUsers] = useState(data.allUsersJson.edges.slice(0, 30))
   const [page, setPage] = useState(0)
   const [searchQuery, setSearchQuery] = useState("")
-
-  function filterUsers() {
-    setFilteredUsers(
-      data.allUsersJson.edges
-        .filter(({ node }) => node.username.includes(searchQuery))
-        .slice(30 * page, 30 * (page + 1))
-    )
-  }
+  const allUsers = data.allUsersJson.edges
 
   function handlePageChange(change) {
     let newPage = page + change
@@ -27,8 +20,12 @@ export default function UserPage({ data }) {
   }
 
   useEffect(() => {
-    filterUsers()
-  }, [page, searchQuery])
+    setFilteredUsers(
+      allUsers
+        .filter(({ node }) => node.username.includes(searchQuery))
+        .slice(30 * page, 30 * (page + 1))
+    )
+  }, [page, searchQuery, allUsers])
 
   return (
     <Layout>
