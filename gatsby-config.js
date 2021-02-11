@@ -21,4 +21,5 @@ module.exports = {
     },
     "gatsby-transformer-json",
   ],
+  pathPrefix: "/project-euler-statistics"
 }
