@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react"
 import Layout from "../components/Layout"
 import { graphql, Link } from "gatsby"
+import "./users.module.css"
 
 export default function UserPage({ data }) {
-  const [filteredUsers, setFilteredUsers] = useState(data.allUsersJson.edges.slice(0, 30))
+  const [filteredUsers, setFilteredUsers] = useState(data.allUsersJson.edges)
   const [page, setPage] = useState(0)
   const [searchQuery, setSearchQuery] = useState("")
   const allUsers = data.allUsersJson.edges
@@ -23,7 +24,8 @@ export default function UserPage({ data }) {
     setFilteredUsers(
       allUsers
         .filter(({ node }) => node.username.includes(searchQuery))
-        .slice(30 * page, 30 * (page + 1))
+        .sort((a, b) => a.node.wins - b.node.wins)
+        .reverse()
     )
   }, [page, searchQuery, allUsers])
 
@@ -44,14 +46,32 @@ export default function UserPage({ data }) {
         }}
         style={{ backgroundColor: "lightgoldenrodyellow", width: "500px", marginLeft: "10px" }}
       />
-      <button onClick={() => handlePageChange(-1)}>Previous page</button>
-      <button onClick={() => handlePageChange(1)}>Next page</button>
-      <div>Click on the user too see his achievements</div>
-      {filteredUsers.map(({ node }) => (
-        <div>
-          <Link to={node.fields.slug}>{node.username}</Link>
-        </div>
-      ))}
+      <div style={{ marginTop: "2rem" }}>
+        <center>
+          <button onClick={() => handlePageChange(-1)}>Previous page</button>
+          Current page: {page + 1}
+          <button onClick={() => handlePageChange(1)}>Next page</button>
+        </center>
+      </div>
+      <br />
+      <table>
+        <tr>
+          <th style={{ width: "35%" }}>Username</th>
+          <th style={{ width: "35%" }}>First places</th>
+          <th style={{ width: "30%" }}>In the fastests solvers table</th>
+        </tr>
+        {filteredUsers.slice(page * 30, (page + 1) * 30).map(({ node }) => {
+          return (
+            <tr>
+              <td>
+                <Link to={node.fields.slug}>{node.username}</Link>
+              </td>
+              <td>{node.wins}</td>
+              <td>{node.count}</td>
+            </tr>
+          )
+        })}
+      </table>
     </Layout>
   )
 }
@@ -66,6 +86,8 @@ export const query = graphql`
             slug
           }
           username
+          count
+          wins
         }
       }
     }
