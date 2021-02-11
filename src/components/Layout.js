@@ -1,6 +1,7 @@
 import React from "react"
 import SideNavbar from "../components/SideNavbar"
 import { Row, Col } from "reactstrap"
+import styles from "./Layout.module.css"
 
 export default function Layout(props) {
   return (
@@ -16,14 +17,7 @@ export default function Layout(props) {
         >
           <SideNavbar />
         </Col>
-        <Col
-          md={10}
-          style={{
-            width: "100%",
-            backgroundColor: "#383838",
-            padding: "3rem 3rem",
-          }}
-        >
+        <Col className={styles.content} md={10}>
           {props.children}
         </Col>
       </Row>

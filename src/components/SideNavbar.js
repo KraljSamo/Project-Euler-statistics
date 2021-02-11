@@ -12,7 +12,7 @@ export default function SideNavbar(props) {
       <br />
       <br />
       <NavbarButton to="/" name="Homepage" />
-      <NavbarButton to="/BestEulerians" name="Best Eulerians" />
+      <NavbarButton to="/BestEulerians" name="Hall of fame" />
       <NavbarButton to="/users" name="User statistics" />
       <NavbarButton to="/ProblemDifficulty" name="Problem difficulty" />
       <NavbarButton to="/HistoricEulerians" name="Historic Eulerians" />

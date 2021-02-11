@@ -6,7 +6,7 @@ export default function NavbarButton(props) {
   return (
     <div className={styles.navbarButton}>
       <Link to={props.to}>
-        <span style={{ marginLeft: "1.5rem" }}>{props.name}</span>
+        <span style={{ marginLeft: "1.5vw" }}>{props.name}</span>
       </Link>
     </div>
   )

@@ -1,0 +1,5224 @@
+[
+  {
+    "problem_number": 1,
+    "problem_name": "Multiples of 3 and 5",
+    "solvers": 965900,
+    "difficulty": 5,
+    "release_date": "2001-10-05T18:00:00"
+  },
+  {
+    "problem_number": 2,
+    "problem_name": "Even Fibonacci numbers",
+    "solvers": 769372,
+    "difficulty": 5,
+    "release_date": "2001-10-19T18:00:00"
+  },
+  {
+    "problem_number": 3,
+    "problem_name": "Largest prime factor",
+    "solvers": 552132,
+    "difficulty": 5,
+    "release_date": "2001-11-02T18:00:00"
+  },
+  {
+    "problem_number": 4,
+    "problem_name": "Largest palindrome product",
+    "solvers": 487985,
+    "difficulty": 5,
+    "release_date": "2001-11-16T18:00:00"
+  },
+  {
+    "problem_number": 5,
+    "problem_name": "Smallest multiple",
+    "solvers": 491492,
+    "difficulty": 5,
+    "release_date": "2001-11-30T18:00:00"
+  },
+  {
+    "problem_number": 6,
+    "problem_name": "Sum square difference",
+    "solvers": 494529,
+    "difficulty": 5,
+    "release_date": "2001-12-14T18:00:00"
+  },
+  {
+    "problem_number": 7,
+    "problem_name": "10001st prime",
+    "solvers": 422839,
+    "difficulty": 5,
+    "release_date": "2001-12-28T18:00:00"
+  },
+  {
+    "problem_number": 8,
+    "problem_name": "Largest product in a series",
+    "solvers": 353607,
+    "difficulty": 5,
+    "release_date": "2002-01-11T18:00:00"
+  },
+  {
+    "problem_number": 9,
+    "problem_name": "Special Pythagorean triplet",
+    "solvers": 358890,
+    "difficulty": 5,
+    "release_date": "2002-01-25T18:00:00"
+  },
+  {
+    "problem_number": 10,
+    "problem_name": "Summation of primes",
+    "solvers": 328562,
+    "difficulty": 5,
+    "release_date": "2002-02-08T18:00:00"
+  },
+  {
+    "problem_number": 11,
+    "problem_name": "Largest product in a grid",
+    "solvers": 235036,
+    "difficulty": 5,
+    "release_date": "2002-02-22T18:00:00"
+  },
+  {
+    "problem_number": 12,
+    "problem_name": "Highly divisible triangular number",
+    "solvers": 221741,
+    "difficulty": 5,
+    "release_date": "2002-03-08T18:00:00"
+  },
+  {
+    "problem_number": 13,
+    "problem_name": "Large sum",
+    "solvers": 226967,
+    "difficulty": 5,
+    "release_date": "2002-03-22T18:00:00"
+  },
+  {
+    "problem_number": 14,
+    "problem_name": "Longest Collatz sequence",
+    "solvers": 227269,
+    "difficulty": 5,
+    "release_date": "2002-04-05T18:00:00"
+  },
+  {
+    "problem_number": 15,
+    "problem_name": "Lattice paths",
+    "solvers": 187284,
+    "difficulty": 5,
+    "release_date": "2002-04-19T18:00:00"
+  },
+  {
+    "problem_number": 16,
+    "problem_name": "Power digit sum",
+    "solvers": 229627,
+    "difficulty": 5,
+    "release_date": "2002-05-03T18:00:00"
+  },
+  {
+    "problem_number": 17,
+    "problem_name": "Number letter counts",
+    "solvers": 151647,
+    "difficulty": 5,
+    "release_date": "2002-05-17T18:00:00"
+  },
+  {
+    "problem_number": 18,
+    "problem_name": "Maximum path sum I",
+    "solvers": 145083,
+    "difficulty": 5,
+    "release_date": "2002-05-31T18:00:00"
+  },
+  {
+    "problem_number": 19,
+    "problem_name": "Counting Sundays",
+    "solvers": 134815,
+    "difficulty": 5,
+    "release_date": "2002-06-14T18:00:00"
+  },
+  {
+    "problem_number": 20,
+    "problem_name": "Factorial digit sum",
+    "solvers": 198649,
+    "difficulty": 5,
+    "release_date": "2002-06-21T18:00:00"
+  },
+  {
+    "problem_number": 21,
+    "problem_name": "Amicable numbers",
+    "solvers": 146446,
+    "difficulty": 5,
+    "release_date": "2002-07-05T18:00:00"
+  },
+  {
+    "problem_number": 22,
+    "problem_name": "Names scores",
+    "solvers": 134449,
+    "difficulty": 5,
+    "release_date": "2002-07-19T18:00:00"
+  },
+  {
+    "problem_number": 23,
+    "problem_name": "Non-abundant sums",
+    "solvers": 103972,
+    "difficulty": 5,
+    "release_date": "2002-08-02T18:00:00"
+  },
+  {
+    "problem_number": 24,
+    "problem_name": "Lexicographic permutations",
+    "solvers": 114564,
+    "difficulty": 5,
+    "release_date": "2002-08-16T18:00:00"
+  },
+  {
+    "problem_number": 25,
+    "problem_name": "1000-digit Fibonacci number",
+    "solvers": 155544,
+    "difficulty": 5,
+    "release_date": "2002-08-30T18:00:00"
+  },
+  {
+    "problem_number": 26,
+    "problem_name": "Reciprocal cycles",
+    "solvers": 83685,
+    "difficulty": 5,
+    "release_date": "2002-09-13T18:00:00"
+  },
+  {
+    "problem_number": 27,
+    "problem_name": "Quadratic primes",
+    "solvers": 87063,
+    "difficulty": 5,
+    "release_date": "2002-09-27T18:00:00"
+  },
+  {
+    "problem_number": 28,
+    "problem_name": "Number spiral diagonals",
+    "solvers": 107970,
+    "difficulty": 5,
+    "release_date": "2002-10-11T18:00:00"
+  },
+  {
+    "problem_number": 29,
+    "problem_name": "Distinct powers",
+    "solvers": 105263,
+    "difficulty": 5,
+    "release_date": "2002-10-25T18:00:00"
+  },
+  {
+    "problem_number": 30,
+    "problem_name": "Digit fifth powers",
+    "solvers": 109891,
+    "difficulty": 5,
+    "release_date": "2002-11-08T18:00:00"
+  },
+  {
+    "problem_number": 31,
+    "problem_name": "Coin sums",
+    "solvers": 84788,
+    "difficulty": 5,
+    "release_date": "2002-11-22T18:00:00"
+  },
+  {
+    "problem_number": 32,
+    "problem_name": "Pandigital products",
+    "solvers": 70940,
+    "difficulty": 5,
+    "release_date": "2002-12-06T18:00:00"
+  },
+  {
+    "problem_number": 33,
+    "problem_name": "Digit cancelling fractions",
+    "solvers": 71358,
+    "difficulty": 5,
+    "release_date": "2002-12-20T18:00:00"
+  },
+  {
+    "problem_number": 34,
+    "problem_name": "Digit factorials",
+    "solvers": 94019,
+    "difficulty": 5,
+    "release_date": "2003-01-03T18:00:00"
+  },
+  {
+    "problem_number": 35,
+    "problem_name": "Circular primes",
+    "solvers": 84341,
+    "difficulty": 5,
+    "release_date": "2003-01-17T18:00:00"
+  },
+  {
+    "problem_number": 36,
+    "problem_name": "Double-base palindromes",
+    "solvers": 88512,
+    "difficulty": 5,
+    "release_date": "2003-01-31T18:00:00"
+  },
+  {
+    "problem_number": 37,
+    "problem_name": "Truncatable primes",
+    "solvers": 73232,
+    "difficulty": 5,
+    "release_date": "2003-02-14T18:00:00"
+  },
+  {
+    "problem_number": 38,
+    "problem_name": "Pandigital multiples",
+    "solvers": 62632,
+    "difficulty": 5,
+    "release_date": "2003-02-28T18:00:00"
+  },
+  {
+    "problem_number": 39,
+    "problem_name": "Integer right triangles",
+    "solvers": 72786,
+    "difficulty": 5,
+    "release_date": "2003-03-14T18:00:00"
+  },
+  {
+    "problem_number": 40,
+    "problem_name": "Champernowne's constant",
+    "solvers": 79750,
+    "difficulty": 5,
+    "release_date": "2003-03-28T18:00:00"
+  },
+  {
+    "problem_number": 41,
+    "problem_name": "Pandigital prime",
+    "solvers": 67712,
+    "difficulty": 5,
+    "release_date": "2003-04-11T18:00:00"
+  },
+  {
+    "problem_number": 42,
+    "problem_name": "Coded triangle numbers",
+    "solvers": 74045,
+    "difficulty": 5,
+    "release_date": "2003-04-25T18:00:00"
+  },
+  {
+    "problem_number": 43,
+    "problem_name": "Sub-string divisibility",
+    "solvers": 59411,
+    "difficulty": 5,
+    "release_date": "2003-05-09T18:00:00"
+  },
+  {
+    "problem_number": 44,
+    "problem_name": "Pentagon numbers",
+    "solvers": 58067,
+    "difficulty": 5,
+    "release_date": "2003-05-23T18:00:00"
+  },
+  {
+    "problem_number": 45,
+    "problem_name": "Triangular, pentagonal, and hexagonal",
+    "solvers": 70637,
+    "difficulty": 5,
+    "release_date": "2003-06-06T18:00:00"
+  },
+  {
+    "problem_number": 46,
+    "problem_name": "Goldbach's other conjecture",
+    "solvers": 61187,
+    "difficulty": 5,
+    "release_date": "2003-06-20T18:00:00"
+  },
+  {
+    "problem_number": 47,
+    "problem_name": "Distinct primes factors",
+    "solvers": 57541,
+    "difficulty": 5,
+    "release_date": "2003-07-04T18:00:00"
+  },
+  {
+    "problem_number": 48,
+    "problem_name": "Self powers",
+    "solvers": 112000,
+    "difficulty": 5,
+    "release_date": "2003-07-18T18:00:00"
+  },
+  {
+    "problem_number": 49,
+    "problem_name": "Prime permutations",
+    "solvers": 57469,
+    "difficulty": 5,
+    "release_date": "2003-08-01T18:00:00"
+  },
+  {
+    "problem_number": 50,
+    "problem_name": "Consecutive prime sum",
+    "solvers": 62031,
+    "difficulty": 5,
+    "release_date": "2003-08-15T18:00:00"
+  },
+  {
+    "problem_number": 51,
+    "problem_name": "Prime digit replacements",
+    "solvers": 33309,
+    "difficulty": 15,
+    "release_date": "2003-08-29T18:00:00"
+  },
+  {
+    "problem_number": 52,
+    "problem_name": "Permuted multiples",
+    "solvers": 64696,
+    "difficulty": 5,
+    "release_date": "2003-09-12T18:00:00"
+  },
+  {
+    "problem_number": 53,
+    "problem_name": "Combinatoric selections",
+    "solvers": 58436,
+    "difficulty": 5,
+    "release_date": "2003-09-26T18:00:00"
+  },
+  {
+    "problem_number": 54,
+    "problem_name": "Poker hands",
+    "solvers": 35579,
+    "difficulty": 10,
+    "release_date": "2003-10-10T18:00:00"
+  },
+  {
+    "problem_number": 55,
+    "problem_name": "Lychrel numbers",
+    "solvers": 53273,
+    "difficulty": 5,
+    "release_date": "2003-10-24T18:00:00"
+  },
+  {
+    "problem_number": 56,
+    "problem_name": "Powerful digit sum",
+    "solvers": 57698,
+    "difficulty": 5,
+    "release_date": "2003-11-07T18:00:00"
+  },
+  {
+    "problem_number": 57,
+    "problem_name": "Square root convergents",
+    "solvers": 41067,
+    "difficulty": 5,
+    "release_date": "2003-11-21T18:00:00"
+  },
+  {
+    "problem_number": 58,
+    "problem_name": "Spiral primes",
+    "solvers": 39649,
+    "difficulty": 5,
+    "release_date": "2003-12-05T18:00:00"
+  },
+  {
+    "problem_number": 59,
+    "problem_name": "XOR decryption",
+    "solvers": 40694,
+    "difficulty": 5,
+    "release_date": "2003-12-19T18:00:00"
+  },
+  {
+    "problem_number": 60,
+    "problem_name": "Prime pair sets",
+    "solvers": 26150,
+    "difficulty": 20,
+    "release_date": "2004-01-02T18:00:00"
+  },
+  {
+    "problem_number": 61,
+    "problem_name": "Cyclical figurate numbers",
+    "solvers": 24960,
+    "difficulty": 20,
+    "release_date": "2004-01-16T18:00:00"
+  },
+  {
+    "problem_number": 62,
+    "problem_name": "Cubic permutations",
+    "solvers": 30882,
+    "difficulty": 15,
+    "release_date": "2004-01-30T18:00:00"
+  },
+  {
+    "problem_number": 63,
+    "problem_name": "Powerful digit counts",
+    "solvers": 42650,
+    "difficulty": 5,
+    "release_date": "2004-02-13T18:00:00"
+  },
+  {
+    "problem_number": 64,
+    "problem_name": "Odd period square roots",
+    "solvers": 21652,
+    "difficulty": 20,
+    "release_date": "2004-02-27T18:00:00"
+  },
+  {
+    "problem_number": 65,
+    "problem_name": "Convergents of e",
+    "solvers": 29344,
+    "difficulty": 15,
+    "release_date": "2004-03-12T18:00:00"
+  },
+  {
+    "problem_number": 66,
+    "problem_name": "Diophantine equation",
+    "solvers": 19173,
+    "difficulty": 25,
+    "release_date": "2004-03-26T18:00:00"
+  },
+  {
+    "problem_number": 67,
+    "problem_name": "Maximum path sum II",
+    "solvers": 95332,
+    "difficulty": 5,
+    "release_date": "2004-04-09T18:00:00"
+  },
+  {
+    "problem_number": 68,
+    "problem_name": "Magic 5-gon ring",
+    "solvers": 20268,
+    "difficulty": 25,
+    "release_date": "2004-04-23T18:00:00"
+  },
+  {
+    "problem_number": 69,
+    "problem_name": "Totient maximum",
+    "solvers": 34192,
+    "difficulty": 10,
+    "release_date": "2004-05-07T18:00:00"
+  },
+  {
+    "problem_number": 70,
+    "problem_name": "Totient permutation",
+    "solvers": 21770,
+    "difficulty": 20,
+    "release_date": "2004-05-21T18:00:00"
+  },
+  {
+    "problem_number": 71,
+    "problem_name": "Ordered fractions",
+    "solvers": 28753,
+    "difficulty": 10,
+    "release_date": "2004-06-04T18:00:00"
+  },
+  {
+    "problem_number": 72,
+    "problem_name": "Counting fractions",
+    "solvers": 21846,
+    "difficulty": 20,
+    "release_date": "2004-06-18T18:00:00"
+  },
+  {
+    "problem_number": 73,
+    "problem_name": "Counting fractions in a range",
+    "solvers": 24526,
+    "difficulty": 15,
+    "release_date": "2004-07-02T18:00:00"
+  },
+  {
+    "problem_number": 74,
+    "problem_name": "Digit factorial chains",
+    "solvers": 26211,
+    "difficulty": 15,
+    "release_date": "2004-07-16T18:00:00"
+  },
+  {
+    "problem_number": 75,
+    "problem_name": "Singular integer right triangles",
+    "solvers": 17502,
+    "difficulty": 25,
+    "release_date": "2004-07-30T18:00:00"
+  },
+  {
+    "problem_number": 76,
+    "problem_name": "Counting summations",
+    "solvers": 28063,
+    "difficulty": 10,
+    "release_date": "2004-08-13T18:00:00"
+  },
+  {
+    "problem_number": 77,
+    "problem_name": "Prime summations",
+    "solvers": 18667,
+    "difficulty": 25,
+    "release_date": "2004-08-27T18:00:00"
+  },
+  {
+    "problem_number": 78,
+    "problem_name": "Coin partitions",
+    "solvers": 16367,
+    "difficulty": 30,
+    "release_date": "2004-09-10T18:00:00"
+  },
+  {
+    "problem_number": 79,
+    "problem_name": "Passcode derivation",
+    "solvers": 40476,
+    "difficulty": 5,
+    "release_date": "2004-09-17T18:00:00"
+  },
+  {
+    "problem_number": 80,
+    "problem_name": "Square root digital expansion",
+    "solvers": 19357,
+    "difficulty": 20,
+    "release_date": "2004-10-08T18:00:00"
+  },
+  {
+    "problem_number": 81,
+    "problem_name": "Path sum: two ways",
+    "solvers": 33763,
+    "difficulty": 10,
+    "release_date": "2004-10-22T18:00:00"
+  },
+  {
+    "problem_number": 82,
+    "problem_name": "Path sum: three ways",
+    "solvers": 20613,
+    "difficulty": 20,
+    "release_date": "2004-11-05T18:00:00"
+  },
+  {
+    "problem_number": 83,
+    "problem_name": "Path sum: four ways",
+    "solvers": 17671,
+    "difficulty": 25,
+    "release_date": "2004-11-19T18:00:00"
+  },
+  {
+    "problem_number": 84,
+    "problem_name": "Monopoly odds",
+    "solvers": 12204,
+    "difficulty": 35,
+    "release_date": "2004-12-03T18:00:00"
+  },
+  {
+    "problem_number": 85,
+    "problem_name": "Counting rectangles",
+    "solvers": 24150,
+    "difficulty": 15,
+    "release_date": "2004-12-17T18:00:00"
+  },
+  {
+    "problem_number": 86,
+    "problem_name": "Cuboid route",
+    "solvers": 12294,
+    "difficulty": 35,
+    "release_date": "2005-01-07T18:00:00"
+  },
+  {
+    "problem_number": 87,
+    "problem_name": "Prime power triples",
+    "solvers": 20402,
+    "difficulty": 20,
+    "release_date": "2005-01-21T18:00:00"
+  },
+  {
+    "problem_number": 88,
+    "problem_name": "Product-sum numbers",
+    "solvers": 9695,
+    "difficulty": 40,
+    "release_date": "2005-02-04T18:00:00"
+  },
+  {
+    "problem_number": 89,
+    "problem_name": "Roman numerals",
+    "solvers": 20721,
+    "difficulty": 20,
+    "release_date": "2005-02-18T18:00:00"
+  },
+  {
+    "problem_number": 90,
+    "problem_name": "Cube digit pairs",
+    "solvers": 10849,
+    "difficulty": 40,
+    "release_date": "2005-03-04T18:00:00"
+  },
+  {
+    "problem_number": 91,
+    "problem_name": "Right triangles with integer coordinates",
+    "solvers": 14996,
+    "difficulty": 25,
+    "release_date": "2005-03-18T18:00:00"
+  },
+  {
+    "problem_number": 92,
+    "problem_name": "Square digit chains",
+    "solvers": 40993,
+    "difficulty": 5,
+    "release_date": "2005-04-01T18:00:00"
+  },
+  {
+    "problem_number": 93,
+    "problem_name": "Arithmetic expressions",
+    "solvers": 11374,
+    "difficulty": 35,
+    "release_date": "2005-04-15T18:00:00"
+  },
+  {
+    "problem_number": 94,
+    "problem_name": "Almost equilateral triangles",
+    "solvers": 11898,
+    "difficulty": 35,
+    "release_date": "2005-04-29T18:00:00"
+  },
+  {
+    "problem_number": 95,
+    "problem_name": "Amicable chains",
+    "solvers": 13827,
+    "difficulty": 30,
+    "release_date": "2005-05-13T18:00:00"
+  },
+  {
+    "problem_number": 96,
+    "problem_name": "Su Doku",
+    "solvers": 16649,
+    "difficulty": 25,
+    "release_date": "2005-05-27T18:00:00"
+  },
+  {
+    "problem_number": 97,
+    "problem_name": "Large non-Mersenne prime",
+    "solvers": 42646,
+    "difficulty": 5,
+    "release_date": "2005-06-10T18:00:00"
+  },
+  {
+    "problem_number": 98,
+    "problem_name": "Anagramic squares",
+    "solvers": 10964,
+    "difficulty": 35,
+    "release_date": "2005-06-17T18:00:00"
+  },
+  {
+    "problem_number": 99,
+    "problem_name": "Largest exponential",
+    "solvers": 29974,
+    "difficulty": 10,
+    "release_date": "2005-07-01T18:00:00"
+  },
+  {
+    "problem_number": 100,
+    "problem_name": "Arranged probability",
+    "solvers": 15803,
+    "difficulty": 30,
+    "release_date": "2005-07-15T18:00:00"
+  },
+  {
+    "problem_number": 101,
+    "problem_name": "Optimum polynomial",
+    "solvers": 11054,
+    "difficulty": 35,
+    "release_date": "2005-07-29T18:00:00"
+  },
+  {
+    "problem_number": 102,
+    "problem_name": "Triangle containment",
+    "solvers": 21386,
+    "difficulty": 15,
+    "release_date": "2005-08-12T18:00:00"
+  },
+  {
+    "problem_number": 103,
+    "problem_name": "Special subset sums: optimum",
+    "solvers": 7694,
+    "difficulty": 45,
+    "release_date": "2005-08-26T18:00:00"
+  },
+  {
+    "problem_number": 104,
+    "problem_name": "Pandigital Fibonacci ends",
+    "solvers": 15766,
+    "difficulty": 25,
+    "release_date": "2005-09-09T18:00:00"
+  },
+  {
+    "problem_number": 105,
+    "problem_name": "Special subset sums: testing",
+    "solvers": 7692,
+    "difficulty": 45,
+    "release_date": "2005-09-23T18:00:00"
+  },
+  {
+    "problem_number": 106,
+    "problem_name": "Special subset sums: meta-testing",
+    "solvers": 6122,
+    "difficulty": 50,
+    "release_date": "2005-10-07T18:00:00"
+  },
+  {
+    "problem_number": 107,
+    "problem_name": "Minimal network",
+    "solvers": 10602,
+    "difficulty": 35,
+    "release_date": "2005-10-21T18:00:00"
+  },
+  {
+    "problem_number": 108,
+    "problem_name": "Diophantine reciprocals I",
+    "solvers": 12239,
+    "difficulty": 30,
+    "release_date": "2005-11-04T18:00:00"
+  },
+  {
+    "problem_number": 109,
+    "problem_name": "Darts",
+    "solvers": 7812,
+    "difficulty": 45,
+    "release_date": "2005-11-18T18:00:00"
+  },
+  {
+    "problem_number": 110,
+    "problem_name": "Diophantine reciprocals II",
+    "solvers": 7763,
+    "difficulty": 40,
+    "release_date": "2005-12-02T18:00:00"
+  },
+  {
+    "problem_number": 111,
+    "problem_name": "Primes with runs",
+    "solvers": 6898,
+    "difficulty": 45,
+    "release_date": "2005-12-16T18:00:00"
+  },
+  {
+    "problem_number": 112,
+    "problem_name": "Bouncy numbers",
+    "solvers": 24044,
+    "difficulty": 15,
+    "release_date": "2005-12-30T18:00:00"
+  },
+  {
+    "problem_number": 113,
+    "problem_name": "Non-bouncy numbers",
+    "solvers": 10697,
+    "difficulty": 30,
+    "release_date": "2006-02-10T18:00:00"
+  },
+  {
+    "problem_number": 114,
+    "problem_name": "Counting block combinations I",
+    "solvers": 10439,
+    "difficulty": 35,
+    "release_date": "2006-02-17T18:00:00"
+  },
+  {
+    "problem_number": 115,
+    "problem_name": "Counting block combinations II",
+    "solvers": 9529,
+    "difficulty": 35,
+    "release_date": "2006-02-24T18:00:00"
+  },
+  {
+    "problem_number": 116,
+    "problem_name": "Red, green or blue tiles",
+    "solvers": 11688,
+    "difficulty": 30,
+    "release_date": "2006-03-03T18:00:00"
+  },
+  {
+    "problem_number": 117,
+    "problem_name": "Red, green, and blue tiles",
+    "solvers": 10719,
+    "difficulty": 35,
+    "release_date": "2006-03-10T18:00:00"
+  },
+  {
+    "problem_number": 118,
+    "problem_name": "Pandigital prime sets",
+    "solvers": 6622,
+    "difficulty": 45,
+    "release_date": "2006-03-24T18:00:00"
+  },
+  {
+    "problem_number": 119,
+    "problem_name": "Digit power sum",
+    "solvers": 11964,
+    "difficulty": 30,
+    "release_date": "2006-04-07T18:00:00"
+  },
+  {
+    "problem_number": 120,
+    "problem_name": "Square remainders",
+    "solvers": 13381,
+    "difficulty": 25,
+    "release_date": "2006-04-21T18:00:00"
+  },
+  {
+    "problem_number": 121,
+    "problem_name": "Disc game prize fund",
+    "solvers": 9352,
+    "difficulty": 35,
+    "release_date": "2006-05-19T18:00:00"
+  },
+  {
+    "problem_number": 122,
+    "problem_name": "Efficient exponentiation",
+    "solvers": 7431,
+    "difficulty": 40,
+    "release_date": "2006-06-02T18:00:00"
+  },
+  {
+    "problem_number": 123,
+    "problem_name": "Prime square remainders",
+    "solvers": 11152,
+    "difficulty": 30,
+    "release_date": "2006-06-16T18:00:00"
+  },
+  {
+    "problem_number": 124,
+    "problem_name": "Ordered radicals",
+    "solvers": 13261,
+    "difficulty": 25,
+    "release_date": "2006-07-14T18:00:00"
+  },
+  {
+    "problem_number": 125,
+    "problem_name": "Palindromic sums",
+    "solvers": 13105,
+    "difficulty": 25,
+    "release_date": "2006-08-04T18:00:00"
+  },
+  {
+    "problem_number": 126,
+    "problem_name": "Cuboid layers",
+    "solvers": 4468,
+    "difficulty": 55,
+    "release_date": "2006-08-18T18:00:00"
+  },
+  {
+    "problem_number": 127,
+    "problem_name": "abc-hits",
+    "solvers": 5910,
+    "difficulty": 50,
+    "release_date": "2006-09-01T18:00:00"
+  },
+  {
+    "problem_number": 128,
+    "problem_name": "Hexagonal tile differences",
+    "solvers": 4737,
+    "difficulty": 55,
+    "release_date": "2006-09-29T18:00:00"
+  },
+  {
+    "problem_number": 129,
+    "problem_name": "Repunit divisibility",
+    "solvers": 5991,
+    "difficulty": 45,
+    "release_date": "2006-10-27T18:00:00"
+  },
+  {
+    "problem_number": 130,
+    "problem_name": "Composites with prime repunit property",
+    "solvers": 5627,
+    "difficulty": 45,
+    "release_date": "2006-10-27T18:00:00"
+  },
+  {
+    "problem_number": 131,
+    "problem_name": "Prime cube partnership",
+    "solvers": 7037,
+    "difficulty": 40,
+    "release_date": "2006-11-10T18:00:00"
+  },
+  {
+    "problem_number": 132,
+    "problem_name": "Large repunit factors",
+    "solvers": 6048,
+    "difficulty": 45,
+    "release_date": "2006-12-01T18:00:00"
+  },
+  {
+    "problem_number": 133,
+    "problem_name": "Repunit nonfactors",
+    "solvers": 5251,
+    "difficulty": 50,
+    "release_date": "2006-12-01T18:00:00"
+  },
+  {
+    "problem_number": 134,
+    "problem_name": "Prime pair connection",
+    "solvers": 6659,
+    "difficulty": 45,
+    "release_date": "2006-12-15T18:00:00"
+  },
+  {
+    "problem_number": 135,
+    "problem_name": "Same differences",
+    "solvers": 6066,
+    "difficulty": 45,
+    "release_date": "2006-12-29T18:00:00"
+  },
+  {
+    "problem_number": 136,
+    "problem_name": "Singleton difference",
+    "solvers": 5346,
+    "difficulty": 50,
+    "release_date": "2006-12-29T18:00:00"
+  },
+  {
+    "problem_number": 137,
+    "problem_name": "Fibonacci golden nuggets",
+    "solvers": 5214,
+    "difficulty": 50,
+    "release_date": "2007-01-12T18:00:00"
+  },
+  {
+    "problem_number": 138,
+    "problem_name": "Special isosceles triangles",
+    "solvers": 5523,
+    "difficulty": 45,
+    "release_date": "2007-01-20T11:00:00"
+  },
+  {
+    "problem_number": 139,
+    "problem_name": "Pythagorean tiles",
+    "solvers": 5335,
+    "difficulty": 50,
+    "release_date": "2007-01-27T09:00:00"
+  },
+  {
+    "problem_number": 140,
+    "problem_name": "Modified Fibonacci golden nuggets",
+    "solvers": 4096,
+    "difficulty": 55,
+    "release_date": "2007-02-03T07:00:00"
+  },
+  {
+    "problem_number": 141,
+    "problem_name": "Investigating progressive numbers, n, which are also square",
+    "solvers": 3697,
+    "difficulty": 60,
+    "release_date": "2007-02-17T05:00:00"
+  },
+  {
+    "problem_number": 142,
+    "problem_name": "Perfect Square Collection",
+    "solvers": 5535,
+    "difficulty": 45,
+    "release_date": "2007-02-24T01:00:00"
+  },
+  {
+    "problem_number": 143,
+    "problem_name": "Investigating the Torricelli point of a triangle",
+    "solvers": 2577,
+    "difficulty": 65,
+    "release_date": "2007-03-02T21:00:00"
+  },
+  {
+    "problem_number": 144,
+    "problem_name": "Investigating multiple reflections of a laser beam",
+    "solvers": 5933,
+    "difficulty": 50,
+    "release_date": "2007-03-09T17:00:00"
+  },
+  {
+    "problem_number": 145,
+    "problem_name": "How many reversible numbers are there below one-billion?",
+    "solvers": 16168,
+    "difficulty": 20,
+    "release_date": "2007-03-16T13:00:00"
+  },
+  {
+    "problem_number": 146,
+    "problem_name": "Investigating a Prime Pattern ",
+    "solvers": 4771,
+    "difficulty": 50,
+    "release_date": "2007-03-24T09:00:00"
+  },
+  {
+    "problem_number": 147,
+    "problem_name": "Rectangles in cross-hatched grids",
+    "solvers": 2857,
+    "difficulty": 65,
+    "release_date": "2007-03-31T06:00:00"
+  },
+  {
+    "problem_number": 148,
+    "problem_name": "Exploring Pascal's triangle",
+    "solvers": 4890,
+    "difficulty": 50,
+    "release_date": "2007-04-07T02:00:00"
+  },
+  {
+    "problem_number": 149,
+    "problem_name": "Searching for a maximum-sum subsequence",
+    "solvers": 4602,
+    "difficulty": 50,
+    "release_date": "2007-04-13T22:00:00"
+  },
+  {
+    "problem_number": 150,
+    "problem_name": "Searching a triangular array for a sub-triangle having minimum-sum",
+    "solvers": 3765,
+    "difficulty": 55,
+    "release_date": "2007-04-13T22:00:00"
+  },
+  {
+    "problem_number": 151,
+    "problem_name": "Paper sheets of standard sizes: an expected-value problem",
+    "solvers": 5247,
+    "difficulty": 50,
+    "release_date": "2007-04-20T18:00:00"
+  },
+  {
+    "problem_number": 152,
+    "problem_name": "Writing 1/2 as a sum of inverse squares",
+    "solvers": 2520,
+    "difficulty": 65,
+    "release_date": "2007-04-27T14:00:00"
+  },
+  {
+    "problem_number": 153,
+    "problem_name": "Investigating Gaussian Integers",
+    "solvers": 2459,
+    "difficulty": 65,
+    "release_date": "2007-05-05T10:00:00"
+  },
+  {
+    "problem_number": 154,
+    "problem_name": "Exploring Pascal's pyramid",
+    "solvers": 2475,
+    "difficulty": 65,
+    "release_date": "2007-05-12T06:00:00"
+  },
+  {
+    "problem_number": 155,
+    "problem_name": "Counting Capacitor Circuits",
+    "solvers": 3376,
+    "difficulty": 60,
+    "release_date": "2007-05-19T02:00:00"
+  },
+  {
+    "problem_number": 156,
+    "problem_name": "Counting Digits",
+    "solvers": 2269,
+    "difficulty": 70,
+    "release_date": "2007-05-25T22:00:00"
+  },
+  {
+    "problem_number": 157,
+    "problem_name": "Solving the diophantine equation 1/a+1/b= p/10n ",
+    "solvers": 2541,
+    "difficulty": 65,
+    "release_date": "2007-06-01T18:00:00"
+  },
+  {
+    "problem_number": 158,
+    "problem_name": "Exploring strings for which only one character comes lexicographically after its neighbour to the left",
+    "solvers": 3415,
+    "difficulty": 55,
+    "release_date": "2007-06-15T14:00:00"
+  },
+  {
+    "problem_number": 159,
+    "problem_name": "Digital root sums of factorisations",
+    "solvers": 3117,
+    "difficulty": 60,
+    "release_date": "2007-06-30T14:00:00"
+  },
+  {
+    "problem_number": 160,
+    "problem_name": "Factorial trailing digits",
+    "solvers": 3301,
+    "difficulty": 60,
+    "release_date": "2007-09-07T14:00:00"
+  },
+  {
+    "problem_number": 161,
+    "problem_name": "Triominoes",
+    "solvers": 1964,
+    "difficulty": 70,
+    "release_date": "2007-09-21T18:00:00"
+  },
+  {
+    "problem_number": 162,
+    "problem_name": "Hexadecimal numbers",
+    "solvers": 5094,
+    "difficulty": 45,
+    "release_date": "2007-10-05T22:00:00"
+  },
+  {
+    "problem_number": 163,
+    "problem_name": "Cross-hatched triangles",
+    "solvers": 1685,
+    "difficulty": 70,
+    "release_date": "2007-10-13T02:00:00"
+  },
+  {
+    "problem_number": 164,
+    "problem_name": "Numbers for which no three consecutive digits have a sum greater than a given value",
+    "solvers": 5463,
+    "difficulty": 45,
+    "release_date": "2007-10-20T06:00:00"
+  },
+  {
+    "problem_number": 165,
+    "problem_name": "Intersections",
+    "solvers": 2415,
+    "difficulty": 65,
+    "release_date": "2007-10-27T10:00:00"
+  },
+  {
+    "problem_number": 166,
+    "problem_name": "Criss Cross",
+    "solvers": 3849,
+    "difficulty": 50,
+    "release_date": "2007-11-03T13:00:00"
+  },
+  {
+    "problem_number": 167,
+    "problem_name": "Investigating Ulam sequences",
+    "solvers": 1562,
+    "difficulty": 75,
+    "release_date": "2007-11-09T13:00:00"
+  },
+  {
+    "problem_number": 168,
+    "problem_name": "Number Rotations",
+    "solvers": 2496,
+    "difficulty": 65,
+    "release_date": "2007-11-16T17:00:00"
+  },
+  {
+    "problem_number": 169,
+    "problem_name": "Exploring the number of different ways a number can be expressed as a sum of powers of 2",
+    "solvers": 4777,
+    "difficulty": 50,
+    "release_date": "2007-11-23T21:00:00"
+  },
+  {
+    "problem_number": 170,
+    "problem_name": "Find the largest 0 to 9 pandigital that can be formed by concatenating products",
+    "solvers": 1848,
+    "difficulty": 70,
+    "release_date": "2007-12-01T01:00:00"
+  },
+  {
+    "problem_number": 171,
+    "problem_name": "Finding numbers for which the sum of the squares of the digits is a square",
+    "solvers": 2582,
+    "difficulty": 65,
+    "release_date": "2007-12-08T05:00:00"
+  },
+  {
+    "problem_number": 172,
+    "problem_name": "Investigating numbers with few repeated digits",
+    "solvers": 3584,
+    "difficulty": 55,
+    "release_date": "2007-12-15T09:00:00"
+  },
+  {
+    "problem_number": 173,
+    "problem_name": "Using up to one million tiles how many different \"hollow\" square laminae can be formed?",
+    "solvers": 8731,
+    "difficulty": 30,
+    "release_date": "2007-12-22T13:00:00"
+  },
+  {
+    "problem_number": 174,
+    "problem_name": "Counting the number of \"hollow\" square laminae that can form one, two, three, ... distinct arrangements",
+    "solvers": 5587,
+    "difficulty": 40,
+    "release_date": "2007-12-22T13:00:00"
+  },
+  {
+    "problem_number": 175,
+    "problem_name": "Fractions involving the number of different ways a number can be expressed as a sum of powers of 2",
+    "solvers": 1648,
+    "difficulty": 70,
+    "release_date": "2007-12-28T13:00:00"
+  },
+  {
+    "problem_number": 176,
+    "problem_name": "Right-angled triangles that share a cathetus",
+    "solvers": 1773,
+    "difficulty": 70,
+    "release_date": "2008-01-04T17:00:00"
+  },
+  {
+    "problem_number": 177,
+    "problem_name": "Integer angled Quadrilaterals",
+    "solvers": 1186,
+    "difficulty": 80,
+    "release_date": "2008-01-11T21:00:00"
+  },
+  {
+    "problem_number": 178,
+    "problem_name": "Step Numbers",
+    "solvers": 3201,
+    "difficulty": 55,
+    "release_date": "2008-01-19T01:00:00"
+  },
+  {
+    "problem_number": 179,
+    "problem_name": "Consecutive positive divisors",
+    "solvers": 10812,
+    "difficulty": 25,
+    "release_date": "2008-01-26T05:00:00"
+  },
+  {
+    "problem_number": 180,
+    "problem_name": "Rational zeros of a function of three variables",
+    "solvers": 1471,
+    "difficulty": 75,
+    "release_date": "2008-02-02T09:00:00"
+  },
+  {
+    "problem_number": 181,
+    "problem_name": "Investigating in how many ways objects of two different colours can be grouped",
+    "solvers": 1858,
+    "difficulty": 70,
+    "release_date": "2008-02-09T13:00:00"
+  },
+  {
+    "problem_number": 182,
+    "problem_name": "RSA encryption",
+    "solvers": 2461,
+    "difficulty": 60,
+    "release_date": "2008-02-15T13:00:00"
+  },
+  {
+    "problem_number": 183,
+    "problem_name": "Maximum product of parts",
+    "solvers": 4461,
+    "difficulty": 45,
+    "release_date": "2008-02-22T17:00:00"
+  },
+  {
+    "problem_number": 184,
+    "problem_name": "Triangles containing the origin",
+    "solvers": 1517,
+    "difficulty": 75,
+    "release_date": "2008-02-29T21:00:00"
+  },
+  {
+    "problem_number": 185,
+    "problem_name": "Number Mind",
+    "solvers": 2932,
+    "difficulty": 55,
+    "release_date": "2008-03-08T01:00:00"
+  },
+  {
+    "problem_number": 186,
+    "problem_name": "Connectedness of a network",
+    "solvers": 2685,
+    "difficulty": 60,
+    "release_date": "2008-03-15T05:00:00"
+  },
+  {
+    "problem_number": 187,
+    "problem_name": "Semiprimes",
+    "solvers": 10737,
+    "difficulty": 25,
+    "release_date": "2008-03-22T09:00:00"
+  },
+  {
+    "problem_number": 188,
+    "problem_name": "The hyperexponentiation of a number",
+    "solvers": 6114,
+    "difficulty": 35,
+    "release_date": "2008-04-04T14:00:00"
+  },
+  {
+    "problem_number": 189,
+    "problem_name": "Tri-colouring a triangular grid",
+    "solvers": 1916,
+    "difficulty": 70,
+    "release_date": "2008-04-11T17:00:00"
+  },
+  {
+    "problem_number": 190,
+    "problem_name": "Maximising a weighted product",
+    "solvers": 3943,
+    "difficulty": 50,
+    "release_date": "2008-04-18T22:00:00"
+  },
+  {
+    "problem_number": 191,
+    "problem_name": "Prize Strings",
+    "solvers": 6746,
+    "difficulty": 35,
+    "release_date": "2008-04-26T01:00:00"
+  },
+  {
+    "problem_number": 192,
+    "problem_name": "Best Approximations",
+    "solvers": 1490,
+    "difficulty": 75,
+    "release_date": "2008-05-03T05:00:00"
+  },
+  {
+    "problem_number": 193,
+    "problem_name": "Squarefree Numbers",
+    "solvers": 3080,
+    "difficulty": 55,
+    "release_date": "2008-05-10T13:00:00"
+  },
+  {
+    "problem_number": 194,
+    "problem_name": "Coloured Configurations",
+    "solvers": 1294,
+    "difficulty": 75,
+    "release_date": "2008-05-17T10:00:00"
+  },
+  {
+    "problem_number": 195,
+    "problem_name": "Inscribed circles of triangles with one angle of 60 degrees",
+    "solvers": 1286,
+    "difficulty": 75,
+    "release_date": "2008-05-23T14:00:00"
+  },
+  {
+    "problem_number": 196,
+    "problem_name": "Prime triplets",
+    "solvers": 2399,
+    "difficulty": 65,
+    "release_date": "2008-05-30T18:00:00"
+  },
+  {
+    "problem_number": 197,
+    "problem_name": "Investigating the behaviour of a recursively defined sequence",
+    "solvers": 4682,
+    "difficulty": 45,
+    "release_date": "2008-06-06T22:00:00"
+  },
+  {
+    "problem_number": 198,
+    "problem_name": "Ambiguous Numbers",
+    "solvers": 1038,
+    "difficulty": 80,
+    "release_date": "2008-06-14T02:00:00"
+  },
+  {
+    "problem_number": 199,
+    "problem_name": "Iterative Circle Packing",
+    "solvers": 1814,
+    "difficulty": 70,
+    "release_date": "2008-06-21T06:00:00"
+  },
+  {
+    "problem_number": 200,
+    "problem_name": "Find the 200th prime-proof sqube containing the contiguous sub-string \"200\"",
+    "solvers": 2205,
+    "difficulty": 65,
+    "release_date": "2008-06-28T10:00:00"
+  },
+  {
+    "problem_number": 201,
+    "problem_name": "Subsets with a unique sum",
+    "solvers": 2155,
+    "difficulty": 65,
+    "release_date": "2008-07-05T14:00:00"
+  },
+  {
+    "problem_number": 202,
+    "problem_name": "Laserbeam",
+    "solvers": 2370,
+    "difficulty": 60,
+    "release_date": "2008-07-05T14:00:00"
+  },
+  {
+    "problem_number": 203,
+    "problem_name": "Squarefree Binomial Coefficients",
+    "solvers": 8768,
+    "difficulty": 25,
+    "release_date": "2008-09-06T14:00:00"
+  },
+  {
+    "problem_number": 204,
+    "problem_name": "Generalised Hamming Numbers",
+    "solvers": 6998,
+    "difficulty": 30,
+    "release_date": "2008-09-06T14:00:00"
+  },
+  {
+    "problem_number": 205,
+    "problem_name": "Dice Game",
+    "solvers": 14428,
+    "difficulty": 15,
+    "release_date": "2008-09-06T14:00:00"
+  },
+  {
+    "problem_number": 206,
+    "problem_name": "Concealed Square",
+    "solvers": 23730,
+    "difficulty": 5,
+    "release_date": "2008-09-06T14:00:00"
+  },
+  {
+    "problem_number": 207,
+    "problem_name": "Integer partition equations",
+    "solvers": 4536,
+    "difficulty": 40,
+    "release_date": "2008-09-06T14:00:00"
+  },
+  {
+    "problem_number": 208,
+    "problem_name": "Robot Walks",
+    "solvers": 1645,
+    "difficulty": 70,
+    "release_date": "2008-09-12T14:00:00"
+  },
+  {
+    "problem_number": 209,
+    "problem_name": "Circular Logic",
+    "solvers": 2372,
+    "difficulty": 60,
+    "release_date": "2008-09-19T18:00:00"
+  },
+  {
+    "problem_number": 210,
+    "problem_name": "Obtuse Angled Triangles",
+    "solvers": 1604,
+    "difficulty": 70,
+    "release_date": "2008-09-26T22:00:00"
+  },
+  {
+    "problem_number": 211,
+    "problem_name": "Divisor Square Sum",
+    "solvers": 3943,
+    "difficulty": 50,
+    "release_date": "2008-10-04T02:00:00"
+  },
+  {
+    "problem_number": 212,
+    "problem_name": "Combined Volume of Cuboids",
+    "solvers": 1277,
+    "difficulty": 70,
+    "release_date": "2008-10-11T06:00:00"
+  },
+  {
+    "problem_number": 213,
+    "problem_name": "Flea Circus",
+    "solvers": 2180,
+    "difficulty": 60,
+    "release_date": "2008-10-18T10:00:00"
+  },
+  {
+    "problem_number": 214,
+    "problem_name": "Totient Chains",
+    "solvers": 4940,
+    "difficulty": 40,
+    "release_date": "2008-10-25T14:00:00"
+  },
+  {
+    "problem_number": 215,
+    "problem_name": "Crack-free Walls",
+    "solvers": 3519,
+    "difficulty": 50,
+    "release_date": "2008-10-31T13:00:00"
+  },
+  {
+    "problem_number": 216,
+    "problem_name": "Investigating the primality of numbers of the form 2n2-1",
+    "solvers": 3840,
+    "difficulty": 45,
+    "release_date": "2008-11-07T17:00:00"
+  },
+  {
+    "problem_number": 217,
+    "problem_name": "Balanced Numbers",
+    "solvers": 1412,
+    "difficulty": 70,
+    "release_date": "2008-11-14T21:00:00"
+  },
+  {
+    "problem_number": 218,
+    "problem_name": "Perfect right-angled triangles",
+    "solvers": 2902,
+    "difficulty": 55,
+    "release_date": "2008-11-22T01:00:00"
+  },
+  {
+    "problem_number": 219,
+    "problem_name": "Skew-cost coding",
+    "solvers": 1393,
+    "difficulty": 70,
+    "release_date": "2008-11-29T05:00:00"
+  },
+  {
+    "problem_number": 220,
+    "problem_name": "Heighway Dragon",
+    "solvers": 2090,
+    "difficulty": 55,
+    "release_date": "2008-12-06T09:00:00"
+  },
+  {
+    "problem_number": 221,
+    "problem_name": "Alexandrian Integers",
+    "solvers": 1952,
+    "difficulty": 65,
+    "release_date": "2008-12-13T13:00:00"
+  },
+  {
+    "problem_number": 222,
+    "problem_name": "Sphere Packing",
+    "solvers": 1983,
+    "difficulty": 60,
+    "release_date": "2008-12-19T13:00:00"
+  },
+  {
+    "problem_number": 223,
+    "problem_name": "Almost right-angled triangles I",
+    "solvers": 1410,
+    "difficulty": 70,
+    "release_date": "2008-12-26T17:00:00"
+  },
+  {
+    "problem_number": 224,
+    "problem_name": "Almost right-angled triangles II",
+    "solvers": 1143,
+    "difficulty": 75,
+    "release_date": "2008-12-26T17:00:00"
+  },
+  {
+    "problem_number": 225,
+    "problem_name": "Tribonacci non-divisors",
+    "solvers": 4256,
+    "difficulty": 45,
+    "release_date": "2008-12-26T17:00:00"
+  },
+  {
+    "problem_number": 226,
+    "problem_name": "A Scoop of Blancmange",
+    "solvers": 1642,
+    "difficulty": 65,
+    "release_date": "2009-01-02T21:00:00"
+  },
+  {
+    "problem_number": 227,
+    "problem_name": "The Chase",
+    "solvers": 1987,
+    "difficulty": 65,
+    "release_date": "2009-01-10T01:00:00"
+  },
+  {
+    "problem_number": 228,
+    "problem_name": "Minkowski Sums",
+    "solvers": 1244,
+    "difficulty": 70,
+    "release_date": "2009-01-17T05:00:00"
+  },
+  {
+    "problem_number": 229,
+    "problem_name": "Four Representations using Squares",
+    "solvers": 1381,
+    "difficulty": 70,
+    "release_date": "2009-01-24T09:00:00"
+  },
+  {
+    "problem_number": 230,
+    "problem_name": "Fibonacci Words",
+    "solvers": 2759,
+    "difficulty": 50,
+    "release_date": "2009-01-31T13:00:00"
+  },
+  {
+    "problem_number": 231,
+    "problem_name": "The prime factorisation of binomial coefficients",
+    "solvers": 5183,
+    "difficulty": 40,
+    "release_date": "2009-02-06T13:00:00"
+  },
+  {
+    "problem_number": 232,
+    "problem_name": "The Race",
+    "solvers": 1656,
+    "difficulty": 65,
+    "release_date": "2009-02-13T17:00:00"
+  },
+  {
+    "problem_number": 233,
+    "problem_name": "Lattice points on a circle",
+    "solvers": 2147,
+    "difficulty": 70,
+    "release_date": "2009-02-20T21:00:00"
+  },
+  {
+    "problem_number": 234,
+    "problem_name": "Semidivisible numbers",
+    "solvers": 3115,
+    "difficulty": 50,
+    "release_date": "2009-02-28T01:00:00"
+  },
+  {
+    "problem_number": 235,
+    "problem_name": "An Arithmetic Geometric sequence",
+    "solvers": 4779,
+    "difficulty": 40,
+    "release_date": "2009-03-07T05:00:00"
+  },
+  {
+    "problem_number": 236,
+    "problem_name": "Luxury Hampers",
+    "solvers": 870,
+    "difficulty": 80,
+    "release_date": "2009-03-14T09:00:00"
+  },
+  {
+    "problem_number": 237,
+    "problem_name": "Tours on a 4 x n playing board",
+    "solvers": 1475,
+    "difficulty": 70,
+    "release_date": "2009-03-21T13:00:00"
+  },
+  {
+    "problem_number": 238,
+    "problem_name": "Infinite string tour",
+    "solvers": 895,
+    "difficulty": 75,
+    "release_date": "2009-03-29T15:00:00"
+  },
+  {
+    "problem_number": 239,
+    "problem_name": "Twenty-two Foolish Primes",
+    "solvers": 1728,
+    "difficulty": 65,
+    "release_date": "2009-04-03T17:00:00"
+  },
+  {
+    "problem_number": 240,
+    "problem_name": "Top Dice",
+    "solvers": 2061,
+    "difficulty": 60,
+    "release_date": "2009-04-10T22:00:00"
+  },
+  {
+    "problem_number": 241,
+    "problem_name": "Perfection Quotients",
+    "solvers": 865,
+    "difficulty": 80,
+    "release_date": "2009-04-18T02:00:00"
+  },
+  {
+    "problem_number": 242,
+    "problem_name": "Odd Triplets",
+    "solvers": 979,
+    "difficulty": 75,
+    "release_date": "2009-04-25T06:00:00"
+  },
+  {
+    "problem_number": 243,
+    "problem_name": "Resilience",
+    "solvers": 9137,
+    "difficulty": 35,
+    "release_date": "2009-05-02T10:00:00"
+  },
+  {
+    "problem_number": 244,
+    "problem_name": "Sliders",
+    "solvers": 1236,
+    "difficulty": 70,
+    "release_date": "2009-05-09T14:00:00"
+  },
+  {
+    "problem_number": 245,
+    "problem_name": "Coresilience",
+    "solvers": 766,
+    "difficulty": 80,
+    "release_date": "2009-05-15T14:00:00"
+  },
+  {
+    "problem_number": 246,
+    "problem_name": "Tangents to an ellipse",
+    "solvers": 737,
+    "difficulty": 80,
+    "release_date": "2009-05-22T17:00:00"
+  },
+  {
+    "problem_number": 247,
+    "problem_name": "Squares under a hyperbola",
+    "solvers": 1373,
+    "difficulty": 65,
+    "release_date": "2009-05-29T21:00:00"
+  },
+  {
+    "problem_number": 248,
+    "problem_name": "Numbers for which Euler\u2019s totient function equals 13!",
+    "solvers": 1214,
+    "difficulty": 70,
+    "release_date": "2009-06-06T01:00:00"
+  },
+  {
+    "problem_number": 249,
+    "problem_name": "Prime Subset Sums",
+    "solvers": 2402,
+    "difficulty": 60,
+    "release_date": "2009-06-13T05:00:00"
+  },
+  {
+    "problem_number": 250,
+    "problem_name": "250250",
+    "solvers": 2816,
+    "difficulty": 55,
+    "release_date": "2009-06-13T05:00:00"
+  },
+  {
+    "problem_number": 251,
+    "problem_name": "Cardano Triplets",
+    "solvers": 1292,
+    "difficulty": 70,
+    "release_date": "2009-06-20T09:00:00"
+  },
+  {
+    "problem_number": 252,
+    "problem_name": "Convex Holes",
+    "solvers": 774,
+    "difficulty": 80,
+    "release_date": "2009-06-27T13:00:00"
+  },
+  {
+    "problem_number": 253,
+    "problem_name": "Tidying up",
+    "solvers": 952,
+    "difficulty": 75,
+    "release_date": "2009-08-28T13:00:00"
+  },
+  {
+    "problem_number": 254,
+    "problem_name": "Sums of Digit Factorials",
+    "solvers": 887,
+    "difficulty": 75,
+    "release_date": "2009-09-04T17:00:00"
+  },
+  {
+    "problem_number": 255,
+    "problem_name": "Rounded Square Roots",
+    "solvers": 800,
+    "difficulty": 75,
+    "release_date": "2009-09-11T21:00:00"
+  },
+  {
+    "problem_number": 256,
+    "problem_name": "Tatami-Free Rooms",
+    "solvers": 681,
+    "difficulty": 80,
+    "release_date": "2009-09-19T01:00:00"
+  },
+  {
+    "problem_number": 257,
+    "problem_name": "Angular Bisectors",
+    "solvers": 630,
+    "difficulty": 85,
+    "release_date": "2009-09-26T05:00:00"
+  },
+  {
+    "problem_number": 258,
+    "problem_name": "A lagged Fibonacci sequence",
+    "solvers": 1483,
+    "difficulty": 70,
+    "release_date": "2009-10-03T09:00:00"
+  },
+  {
+    "problem_number": 259,
+    "problem_name": "Reachable Numbers",
+    "solvers": 1409,
+    "difficulty": 70,
+    "release_date": "2009-10-10T13:00:00"
+  },
+  {
+    "problem_number": 260,
+    "problem_name": "Stone Game",
+    "solvers": 1228,
+    "difficulty": 70,
+    "release_date": "2009-10-16T13:00:00"
+  },
+  {
+    "problem_number": 261,
+    "problem_name": "Pivotal Square Sums",
+    "solvers": 628,
+    "difficulty": 85,
+    "release_date": "2009-10-23T17:00:00"
+  },
+  {
+    "problem_number": 262,
+    "problem_name": "Mountain Range",
+    "solvers": 660,
+    "difficulty": 80,
+    "release_date": "2009-10-30T21:00:00"
+  },
+  {
+    "problem_number": 263,
+    "problem_name": "An engineers' dream come true",
+    "solvers": 947,
+    "difficulty": 75,
+    "release_date": "2009-11-07T01:00:00"
+  },
+  {
+    "problem_number": 264,
+    "problem_name": "Triangle Centres",
+    "solvers": 522,
+    "difficulty": 85,
+    "release_date": "2009-11-14T05:00:00"
+  },
+  {
+    "problem_number": 265,
+    "problem_name": "Binary Circles",
+    "solvers": 3996,
+    "difficulty": 40,
+    "release_date": "2009-11-21T09:00:00"
+  },
+  {
+    "problem_number": 266,
+    "problem_name": "Pseudo Square Root",
+    "solvers": 1579,
+    "difficulty": 65,
+    "release_date": "2009-11-28T13:00:00"
+  },
+  {
+    "problem_number": 267,
+    "problem_name": "Billionaire",
+    "solvers": 3192,
+    "difficulty": 50,
+    "release_date": "2009-12-04T13:00:00"
+  },
+  {
+    "problem_number": 268,
+    "problem_name": "Counting numbers with at least four distinct prime factors less than 100",
+    "solvers": 1351,
+    "difficulty": 70,
+    "release_date": "2009-12-11T17:00:00"
+  },
+  {
+    "problem_number": 269,
+    "problem_name": "Polynomials with at least one integer root",
+    "solvers": 635,
+    "difficulty": 80,
+    "release_date": "2009-12-19T09:00:00"
+  },
+  {
+    "problem_number": 270,
+    "problem_name": "Cutting Squares",
+    "solvers": 595,
+    "difficulty": 80,
+    "release_date": "2009-12-26T01:00:00"
+  },
+  {
+    "problem_number": 271,
+    "problem_name": "Modular Cubes, part 1",
+    "solvers": 2223,
+    "difficulty": 60,
+    "release_date": "2010-01-02T05:00:00"
+  },
+  {
+    "problem_number": 272,
+    "problem_name": "Modular Cubes, part 2",
+    "solvers": 883,
+    "difficulty": 80,
+    "release_date": "2010-01-02T05:00:00"
+  },
+  {
+    "problem_number": 273,
+    "problem_name": "Sum of Squares",
+    "solvers": 1272,
+    "difficulty": 70,
+    "release_date": "2010-01-09T13:00:00"
+  },
+  {
+    "problem_number": 274,
+    "problem_name": "Divisibility Multipliers",
+    "solvers": 1328,
+    "difficulty": 65,
+    "release_date": "2010-01-15T13:00:00"
+  },
+  {
+    "problem_number": 275,
+    "problem_name": "Balanced Sculptures",
+    "solvers": 552,
+    "difficulty": 85,
+    "release_date": "2010-01-22T17:00:00"
+  },
+  {
+    "problem_number": 276,
+    "problem_name": "Primitive Triangles",
+    "solvers": 1007,
+    "difficulty": 75,
+    "release_date": "2010-01-29T21:00:00"
+  },
+  {
+    "problem_number": 277,
+    "problem_name": "A Modified Collatz sequence",
+    "solvers": 3039,
+    "difficulty": 35,
+    "release_date": "2010-02-06T01:00:00"
+  },
+  {
+    "problem_number": 278,
+    "problem_name": "Linear Combinations of Semiprimes",
+    "solvers": 968,
+    "difficulty": 50,
+    "release_date": "2010-02-13T05:00:00"
+  },
+  {
+    "problem_number": 279,
+    "problem_name": "Triangles with integral sides and an integral angle ",
+    "solvers": 657,
+    "difficulty": 60,
+    "release_date": "2010-02-20T09:00:00"
+  },
+  {
+    "problem_number": 280,
+    "problem_name": "Ant and seeds",
+    "solvers": 956,
+    "difficulty": 65,
+    "release_date": "2010-02-27T13:00:00"
+  },
+  {
+    "problem_number": 281,
+    "problem_name": "Pizza Toppings",
+    "solvers": 891,
+    "difficulty": 55,
+    "release_date": "2010-03-05T13:00:00"
+  },
+  {
+    "problem_number": 282,
+    "problem_name": "The Ackermann function",
+    "solvers": 923,
+    "difficulty": 70,
+    "release_date": "2010-03-12T17:00:00"
+  },
+  {
+    "problem_number": 283,
+    "problem_name": "Integer sided triangles for which the  area/perimeter ratio is integral",
+    "solvers": 595,
+    "difficulty": 75,
+    "release_date": "2010-03-19T21:00:00"
+  },
+  {
+    "problem_number": 284,
+    "problem_name": "Steady Squares",
+    "solvers": 1179,
+    "difficulty": 55,
+    "release_date": "2010-03-27T01:00:00"
+  },
+  {
+    "problem_number": 285,
+    "problem_name": "Pythagorean odds",
+    "solvers": 1123,
+    "difficulty": 55,
+    "release_date": "2010-04-03T05:00:00"
+  },
+  {
+    "problem_number": 286,
+    "problem_name": "Scoring probabilities",
+    "solvers": 1999,
+    "difficulty": 50,
+    "release_date": "2010-04-03T05:00:00"
+  },
+  {
+    "problem_number": 287,
+    "problem_name": "Quadtree encoding (a simple compression algorithm)",
+    "solvers": 1347,
+    "difficulty": 40,
+    "release_date": "2010-04-10T09:00:00"
+  },
+  {
+    "problem_number": 288,
+    "problem_name": "An enormous factorial",
+    "solvers": 1539,
+    "difficulty": 35,
+    "release_date": "2010-04-17T13:00:00"
+  },
+  {
+    "problem_number": 289,
+    "problem_name": "Eulerian Cycles",
+    "solvers": 452,
+    "difficulty": 90,
+    "release_date": "2010-04-23T13:00:00"
+  },
+  {
+    "problem_number": 290,
+    "problem_name": "Digital Signature",
+    "solvers": 905,
+    "difficulty": 50,
+    "release_date": "2010-04-30T17:00:00"
+  },
+  {
+    "problem_number": 291,
+    "problem_name": "Panaitopol Primes",
+    "solvers": 1338,
+    "difficulty": 45,
+    "release_date": "2010-05-07T21:00:00"
+  },
+  {
+    "problem_number": 292,
+    "problem_name": "Pythagorean Polygons",
+    "solvers": 530,
+    "difficulty": 65,
+    "release_date": "2010-05-15T01:00:00"
+  },
+  {
+    "problem_number": 293,
+    "problem_name": "Pseudo-Fortunate Numbers",
+    "solvers": 2770,
+    "difficulty": 30,
+    "release_date": "2010-05-22T05:00:00"
+  },
+  {
+    "problem_number": 294,
+    "problem_name": "Sum of digits - experience #23",
+    "solvers": 846,
+    "difficulty": 45,
+    "release_date": "2010-05-29T09:00:00"
+  },
+  {
+    "problem_number": 295,
+    "problem_name": "Lenticular holes",
+    "solvers": 420,
+    "difficulty": 75,
+    "release_date": "2010-06-05T13:00:00"
+  },
+  {
+    "problem_number": 296,
+    "problem_name": "Angular Bisector and Tangent",
+    "solvers": 538,
+    "difficulty": 60,
+    "release_date": "2010-06-11T13:00:00"
+  },
+  {
+    "problem_number": 297,
+    "problem_name": "Zeckendorf Representation",
+    "solvers": 2631,
+    "difficulty": 35,
+    "release_date": "2010-06-18T17:00:00"
+  },
+  {
+    "problem_number": 298,
+    "problem_name": "Selective Amnesia",
+    "solvers": 625,
+    "difficulty": 60,
+    "release_date": "2010-06-25T21:00:00"
+  },
+  {
+    "problem_number": 299,
+    "problem_name": "Three similar triangles",
+    "solvers": 576,
+    "difficulty": 60,
+    "release_date": "2010-07-03T01:00:00"
+  },
+  {
+    "problem_number": 300,
+    "problem_name": "Protein folding",
+    "solvers": 1024,
+    "difficulty": 50,
+    "release_date": "2010-09-04T13:00:00"
+  },
+  {
+    "problem_number": 301,
+    "problem_name": "Nim",
+    "solvers": 6097,
+    "difficulty": 15,
+    "release_date": "2010-09-11T16:00:00"
+  },
+  {
+    "problem_number": 302,
+    "problem_name": "Strong Achilles Numbers",
+    "solvers": 694,
+    "difficulty": 60,
+    "release_date": "2010-09-18T19:00:00"
+  },
+  {
+    "problem_number": 303,
+    "problem_name": "Multiples with small digits",
+    "solvers": 3410,
+    "difficulty": 35,
+    "release_date": "2010-09-25T22:00:00"
+  },
+  {
+    "problem_number": 304,
+    "problem_name": "Primonacci",
+    "solvers": 2014,
+    "difficulty": 40,
+    "release_date": "2010-10-03T01:00:00"
+  },
+  {
+    "problem_number": 305,
+    "problem_name": "Reflexive Position",
+    "solvers": 562,
+    "difficulty": 60,
+    "release_date": "2010-10-10T04:00:00"
+  },
+  {
+    "problem_number": 306,
+    "problem_name": "Paper-strip Game",
+    "solvers": 1089,
+    "difficulty": 55,
+    "release_date": "2010-10-17T07:00:00"
+  },
+  {
+    "problem_number": 307,
+    "problem_name": "Chip Defects",
+    "solvers": 1543,
+    "difficulty": 40,
+    "release_date": "2010-10-24T10:00:00"
+  },
+  {
+    "problem_number": 308,
+    "problem_name": "An amazing Prime-generating Automaton",
+    "solvers": 708,
+    "difficulty": 60,
+    "release_date": "2010-10-30T13:00:00"
+  },
+  {
+    "problem_number": 309,
+    "problem_name": "Integer Ladders",
+    "solvers": 740,
+    "difficulty": 50,
+    "release_date": "2010-11-06T16:00:00"
+  },
+  {
+    "problem_number": 310,
+    "problem_name": "Nim Square",
+    "solvers": 1056,
+    "difficulty": 40,
+    "release_date": "2010-11-13T19:00:00"
+  },
+  {
+    "problem_number": 311,
+    "problem_name": "Biclinic Integral Quadrilaterals",
+    "solvers": 402,
+    "difficulty": 70,
+    "release_date": "2010-11-20T22:00:00"
+  },
+  {
+    "problem_number": 312,
+    "problem_name": "Cyclic paths on Sierpi\u0144ski graphs",
+    "solvers": 777,
+    "difficulty": 50,
+    "release_date": "2010-11-28T01:00:00"
+  },
+  {
+    "problem_number": 313,
+    "problem_name": "Sliding game",
+    "solvers": 1504,
+    "difficulty": 30,
+    "release_date": "2010-12-05T04:00:00"
+  },
+  {
+    "problem_number": 314,
+    "problem_name": "The Mouse on the Moon",
+    "solvers": 471,
+    "difficulty": 80,
+    "release_date": "2010-12-12T07:00:00"
+  },
+  {
+    "problem_number": 315,
+    "problem_name": "Digital root clocks",
+    "solvers": 3184,
+    "difficulty": 20,
+    "release_date": "2010-12-19T10:00:00"
+  },
+  {
+    "problem_number": 316,
+    "problem_name": "Numbers in decimal expansions",
+    "solvers": 607,
+    "difficulty": 55,
+    "release_date": "2010-12-25T13:00:00"
+  },
+  {
+    "problem_number": 317,
+    "problem_name": "Firecracker",
+    "solvers": 2467,
+    "difficulty": 35,
+    "release_date": "2011-01-01T16:00:00"
+  },
+  {
+    "problem_number": 318,
+    "problem_name": "2011 nines",
+    "solvers": 855,
+    "difficulty": 50,
+    "release_date": "2011-01-01T16:00:00"
+  },
+  {
+    "problem_number": 319,
+    "problem_name": "Bounded Sequences",
+    "solvers": 368,
+    "difficulty": 90,
+    "release_date": "2011-01-08T19:00:00"
+  },
+  {
+    "problem_number": 320,
+    "problem_name": "Factorials divisible by a huge integer",
+    "solvers": 790,
+    "difficulty": 50,
+    "release_date": "2011-01-15T22:00:00"
+  },
+  {
+    "problem_number": 321,
+    "problem_name": "Swapping Counters",
+    "solvers": 1614,
+    "difficulty": 30,
+    "release_date": "2011-01-23T01:00:00"
+  },
+  {
+    "problem_number": 322,
+    "problem_name": "Binomial coefficients divisible by 10",
+    "solvers": 426,
+    "difficulty": 70,
+    "release_date": "2011-01-30T04:00:00"
+  },
+  {
+    "problem_number": 323,
+    "problem_name": "Bitwise-OR operations on random integers",
+    "solvers": 3650,
+    "difficulty": 20,
+    "release_date": "2011-02-06T07:00:00"
+  },
+  {
+    "problem_number": 324,
+    "problem_name": "Building a tower",
+    "solvers": 653,
+    "difficulty": 50,
+    "release_date": "2011-02-13T10:00:00"
+  },
+  {
+    "problem_number": 325,
+    "problem_name": "Stone Game II",
+    "solvers": 553,
+    "difficulty": 80,
+    "release_date": "2011-02-19T13:00:00"
+  },
+  {
+    "problem_number": 326,
+    "problem_name": "Modulo Summations",
+    "solvers": 485,
+    "difficulty": 55,
+    "release_date": "2011-02-26T16:00:00"
+  },
+  {
+    "problem_number": 327,
+    "problem_name": "Rooms of Doom",
+    "solvers": 1062,
+    "difficulty": 40,
+    "release_date": "2011-03-05T19:00:00"
+  },
+  {
+    "problem_number": 328,
+    "problem_name": "Lowest-cost Search",
+    "solvers": 375,
+    "difficulty": 95,
+    "release_date": "2011-03-12T22:00:00"
+  },
+  {
+    "problem_number": 329,
+    "problem_name": "Prime Frog",
+    "solvers": 2333,
+    "difficulty": 25,
+    "release_date": "2011-03-20T01:00:00"
+  },
+  {
+    "problem_number": 330,
+    "problem_name": "Euler's Number",
+    "solvers": 475,
+    "difficulty": 70,
+    "release_date": "2011-03-27T05:00:00"
+  },
+  {
+    "problem_number": 331,
+    "problem_name": "Cross flips",
+    "solvers": 360,
+    "difficulty": 100,
+    "release_date": "2011-04-03T08:00:00"
+  },
+  {
+    "problem_number": 332,
+    "problem_name": "Spherical triangles",
+    "solvers": 543,
+    "difficulty": 50,
+    "release_date": "2011-04-10T10:00:00"
+  },
+  {
+    "problem_number": 333,
+    "problem_name": "Special partitions",
+    "solvers": 1136,
+    "difficulty": 35,
+    "release_date": "2011-04-16T13:00:00"
+  },
+  {
+    "problem_number": 334,
+    "problem_name": "Spilling the beans",
+    "solvers": 432,
+    "difficulty": 65,
+    "release_date": "2011-04-23T16:00:00"
+  },
+  {
+    "problem_number": 335,
+    "problem_name": "Gathering the beans",
+    "solvers": 464,
+    "difficulty": 65,
+    "release_date": "2011-04-23T16:00:00"
+  },
+  {
+    "problem_number": 336,
+    "problem_name": "Maximix Arrangements",
+    "solvers": 1911,
+    "difficulty": 25,
+    "release_date": "2011-04-30T19:00:00"
+  },
+  {
+    "problem_number": 337,
+    "problem_name": "Totient Stairstep Sequences",
+    "solvers": 471,
+    "difficulty": 70,
+    "release_date": "2011-05-07T22:00:00"
+  },
+  {
+    "problem_number": 338,
+    "problem_name": "Cutting Rectangular Grid Paper",
+    "solvers": 294,
+    "difficulty": 95,
+    "release_date": "2011-05-15T01:00:00"
+  },
+  {
+    "problem_number": 339,
+    "problem_name": "Peredur fab Efrawg",
+    "solvers": 509,
+    "difficulty": 70,
+    "release_date": "2011-05-22T04:00:00"
+  },
+  {
+    "problem_number": 340,
+    "problem_name": "Crazy Function",
+    "solvers": 1020,
+    "difficulty": 30,
+    "release_date": "2011-05-29T07:00:00"
+  },
+  {
+    "problem_number": 341,
+    "problem_name": "Golomb's self-describing sequence",
+    "solvers": 865,
+    "difficulty": 45,
+    "release_date": "2011-06-05T10:00:00"
+  },
+  {
+    "problem_number": 342,
+    "problem_name": "The totient of a square is a cube",
+    "solvers": 737,
+    "difficulty": 50,
+    "release_date": "2011-06-11T13:00:00"
+  },
+  {
+    "problem_number": 343,
+    "problem_name": "Fractional Sequences",
+    "solvers": 1311,
+    "difficulty": 35,
+    "release_date": "2011-06-18T16:00:00"
+  },
+  {
+    "problem_number": 344,
+    "problem_name": "Silver dollar game",
+    "solvers": 290,
+    "difficulty": 100,
+    "release_date": "2011-06-25T19:00:00"
+  },
+  {
+    "problem_number": 345,
+    "problem_name": "Matrix Sum",
+    "solvers": 5333,
+    "difficulty": 15,
+    "release_date": "2011-09-03T16:00:00"
+  },
+  {
+    "problem_number": 346,
+    "problem_name": "Strong Repunits",
+    "solvers": 4049,
+    "difficulty": 15,
+    "release_date": "2011-09-03T16:00:00"
+  },
+  {
+    "problem_number": 347,
+    "problem_name": "Largest integer divisible by two primes",
+    "solvers": 4294,
+    "difficulty": 15,
+    "release_date": "2011-09-03T16:00:00"
+  },
+  {
+    "problem_number": 348,
+    "problem_name": "Sum of a square and a cube",
+    "solvers": 2823,
+    "difficulty": 25,
+    "release_date": "2011-09-03T16:00:00"
+  },
+  {
+    "problem_number": 349,
+    "problem_name": "Langton's ant",
+    "solvers": 1788,
+    "difficulty": 35,
+    "release_date": "2011-09-03T16:00:00"
+  },
+  {
+    "problem_number": 350,
+    "problem_name": "Constraining the least greatest and the greatest least",
+    "solvers": 437,
+    "difficulty": 60,
+    "release_date": "2011-09-10T19:00:00"
+  },
+  {
+    "problem_number": 351,
+    "problem_name": "Hexagonal orchards",
+    "solvers": 2395,
+    "difficulty": 25,
+    "release_date": "2011-09-17T22:00:00"
+  },
+  {
+    "problem_number": 352,
+    "problem_name": "Blood tests",
+    "solvers": 552,
+    "difficulty": 55,
+    "release_date": "2011-10-02T01:00:00"
+  },
+  {
+    "problem_number": 353,
+    "problem_name": "Risky moon",
+    "solvers": 434,
+    "difficulty": 50,
+    "release_date": "2011-10-09T04:00:00"
+  },
+  {
+    "problem_number": 354,
+    "problem_name": "Distances in a bee's honeycomb ",
+    "solvers": 404,
+    "difficulty": 65,
+    "release_date": "2011-10-16T07:00:00"
+  },
+  {
+    "problem_number": 355,
+    "problem_name": "Maximal coprime subset",
+    "solvers": 485,
+    "difficulty": 70,
+    "release_date": "2011-10-23T10:00:00"
+  },
+  {
+    "problem_number": 356,
+    "problem_name": "Largest roots of cubic polynomials",
+    "solvers": 536,
+    "difficulty": 60,
+    "release_date": "2011-10-29T13:00:00"
+  },
+  {
+    "problem_number": 357,
+    "problem_name": "Prime generating integers",
+    "solvers": 7674,
+    "difficulty": 10,
+    "release_date": "2011-11-05T16:00:00"
+  },
+  {
+    "problem_number": 358,
+    "problem_name": "Cyclic numbers",
+    "solvers": 1510,
+    "difficulty": 25,
+    "release_date": "2011-11-12T19:00:00"
+  },
+  {
+    "problem_number": 359,
+    "problem_name": "Hilbert's New Hotel",
+    "solvers": 1427,
+    "difficulty": 25,
+    "release_date": "2011-11-19T22:00:00"
+  },
+  {
+    "problem_number": 360,
+    "problem_name": "Scary Sphere",
+    "solvers": 557,
+    "difficulty": 50,
+    "release_date": "2011-11-27T01:00:00"
+  },
+  {
+    "problem_number": 361,
+    "problem_name": "Subsequence of Thue-Morse sequence",
+    "solvers": 274,
+    "difficulty": 90,
+    "release_date": "2011-12-04T04:00:00"
+  },
+  {
+    "problem_number": 362,
+    "problem_name": "Squarefree factors",
+    "solvers": 428,
+    "difficulty": 70,
+    "release_date": "2011-12-11T07:00:00"
+  },
+  {
+    "problem_number": 363,
+    "problem_name": "B\u00e9zier Curves",
+    "solvers": 1001,
+    "difficulty": 35,
+    "release_date": "2011-12-18T10:00:00"
+  },
+  {
+    "problem_number": 364,
+    "problem_name": "Comfortable distance",
+    "solvers": 651,
+    "difficulty": 50,
+    "release_date": "2011-12-24T13:00:00"
+  },
+  {
+    "problem_number": 365,
+    "problem_name": "A huge binomial coefficient",
+    "solvers": 1136,
+    "difficulty": 40,
+    "release_date": "2011-12-31T16:00:00"
+  },
+  {
+    "problem_number": 366,
+    "problem_name": "Stone Game III",
+    "solvers": 615,
+    "difficulty": 40,
+    "release_date": "2012-01-07T19:00:00"
+  },
+  {
+    "problem_number": 367,
+    "problem_name": "Bozo sort",
+    "solvers": 463,
+    "difficulty": 55,
+    "release_date": "2012-01-14T22:00:00"
+  },
+  {
+    "problem_number": 368,
+    "problem_name": "A Kempner-like series",
+    "solvers": 507,
+    "difficulty": 45,
+    "release_date": "2012-01-22T01:00:00"
+  },
+  {
+    "problem_number": 369,
+    "problem_name": "Badugi",
+    "solvers": 429,
+    "difficulty": 60,
+    "release_date": "2012-01-29T04:00:00"
+  },
+  {
+    "problem_number": 370,
+    "problem_name": "Geometric triangles",
+    "solvers": 477,
+    "difficulty": 65,
+    "release_date": "2012-02-05T07:00:00"
+  },
+  {
+    "problem_number": 371,
+    "problem_name": "Licence plates",
+    "solvers": 1508,
+    "difficulty": 30,
+    "release_date": "2012-02-12T10:00:00"
+  },
+  {
+    "problem_number": 372,
+    "problem_name": "Pencils of rays",
+    "solvers": 372,
+    "difficulty": 60,
+    "release_date": "2012-02-18T13:00:00"
+  },
+  {
+    "problem_number": 373,
+    "problem_name": "Circumscribed Circles",
+    "solvers": 310,
+    "difficulty": 75,
+    "release_date": "2012-02-25T16:00:00"
+  },
+  {
+    "problem_number": 374,
+    "problem_name": "Maximum Integer Partition Product",
+    "solvers": 623,
+    "difficulty": 40,
+    "release_date": "2012-03-03T19:00:00"
+  },
+  {
+    "problem_number": 375,
+    "problem_name": "Minimum of subsequences",
+    "solvers": 817,
+    "difficulty": 40,
+    "release_date": "2012-03-10T22:00:00"
+  },
+  {
+    "problem_number": 376,
+    "problem_name": "Nontransitive sets of dice",
+    "solvers": 250,
+    "difficulty": 70,
+    "release_date": "2012-03-18T01:00:00"
+  },
+  {
+    "problem_number": 377,
+    "problem_name": "Sum of digits - experience #13",
+    "solvers": 653,
+    "difficulty": 45,
+    "release_date": "2012-03-25T05:00:00"
+  },
+  {
+    "problem_number": 378,
+    "problem_name": "Triangle Triples",
+    "solvers": 785,
+    "difficulty": 35,
+    "release_date": "2012-04-01T07:00:00"
+  },
+  {
+    "problem_number": 379,
+    "problem_name": "Least common multiple count",
+    "solvers": 470,
+    "difficulty": 70,
+    "release_date": "2012-04-08T11:00:00"
+  },
+  {
+    "problem_number": 380,
+    "problem_name": "Amazing Mazes!",
+    "solvers": 462,
+    "difficulty": 60,
+    "release_date": "2012-04-14T14:00:00"
+  },
+  {
+    "problem_number": 381,
+    "problem_name": "(prime-k) factorial",
+    "solvers": 3954,
+    "difficulty": 15,
+    "release_date": "2012-04-21T17:00:00"
+  },
+  {
+    "problem_number": 382,
+    "problem_name": "Generating polygons",
+    "solvers": 307,
+    "difficulty": 60,
+    "release_date": "2012-04-28T20:00:00"
+  },
+  {
+    "problem_number": 383,
+    "problem_name": "Divisibility comparison between factorials",
+    "solvers": 447,
+    "difficulty": 50,
+    "release_date": "2012-05-05T23:00:00"
+  },
+  {
+    "problem_number": 384,
+    "problem_name": "Rudin-Shapiro sequence",
+    "solvers": 304,
+    "difficulty": 65,
+    "release_date": "2012-05-13T02:00:00"
+  },
+  {
+    "problem_number": 385,
+    "problem_name": "Ellipses inside triangles",
+    "solvers": 254,
+    "difficulty": 70,
+    "release_date": "2012-05-20T05:00:00"
+  },
+  {
+    "problem_number": 386,
+    "problem_name": "Maximum length of an antichain",
+    "solvers": 669,
+    "difficulty": 40,
+    "release_date": "2012-05-27T08:00:00"
+  },
+  {
+    "problem_number": 387,
+    "problem_name": "Harshad Numbers",
+    "solvers": 4429,
+    "difficulty": 10,
+    "release_date": "2012-06-03T11:00:00"
+  },
+  {
+    "problem_number": 388,
+    "problem_name": "Distinct Lines",
+    "solvers": 519,
+    "difficulty": 55,
+    "release_date": "2012-06-09T14:00:00"
+  },
+  {
+    "problem_number": 389,
+    "problem_name": "Platonic Dice",
+    "solvers": 1417,
+    "difficulty": 30,
+    "release_date": "2012-06-16T17:00:00"
+  },
+  {
+    "problem_number": 390,
+    "problem_name": "Triangles with non rational sides and integral area",
+    "solvers": 535,
+    "difficulty": 60,
+    "release_date": "2012-06-23T20:00:00"
+  },
+  {
+    "problem_number": 391,
+    "problem_name": "Hopping Game",
+    "solvers": 258,
+    "difficulty": 75,
+    "release_date": "2012-06-30T23:00:00"
+  },
+  {
+    "problem_number": 392,
+    "problem_name": "Enmeshed unit circle",
+    "solvers": 704,
+    "difficulty": 35,
+    "release_date": "2012-09-01T14:00:00"
+  },
+  {
+    "problem_number": 393,
+    "problem_name": "Migrating ants",
+    "solvers": 703,
+    "difficulty": 50,
+    "release_date": "2012-09-08T17:00:00"
+  },
+  {
+    "problem_number": 394,
+    "problem_name": "Eating pie",
+    "solvers": 485,
+    "difficulty": 55,
+    "release_date": "2012-09-15T20:00:00"
+  },
+  {
+    "problem_number": 395,
+    "problem_name": "Pythagorean tree",
+    "solvers": 641,
+    "difficulty": 40,
+    "release_date": "2012-09-22T23:00:00"
+  },
+  {
+    "problem_number": 396,
+    "problem_name": "Weak Goodstein sequence",
+    "solvers": 614,
+    "difficulty": 40,
+    "release_date": "2012-09-30T02:00:00"
+  },
+  {
+    "problem_number": 397,
+    "problem_name": "Triangle on parabola",
+    "solvers": 247,
+    "difficulty": 70,
+    "release_date": "2012-10-07T05:00:00"
+  },
+  {
+    "problem_number": 398,
+    "problem_name": "Cutting rope",
+    "solvers": 339,
+    "difficulty": 55,
+    "release_date": "2012-10-14T08:00:00"
+  },
+  {
+    "problem_number": 399,
+    "problem_name": "Squarefree Fibonacci Numbers",
+    "solvers": 520,
+    "difficulty": 45,
+    "release_date": "2012-10-21T11:00:00"
+  },
+  {
+    "problem_number": 400,
+    "problem_name": "Fibonacci tree game",
+    "solvers": 427,
+    "difficulty": 55,
+    "release_date": "2012-10-27T14:00:00"
+  },
+  {
+    "problem_number": 401,
+    "problem_name": "Sum of squares of divisors",
+    "solvers": 2350,
+    "difficulty": 25,
+    "release_date": "2012-11-10T16:00:00"
+  },
+  {
+    "problem_number": 402,
+    "problem_name": "Integer-valued polynomials",
+    "solvers": 357,
+    "difficulty": 55,
+    "release_date": "2012-11-17T19:00:00"
+  },
+  {
+    "problem_number": 403,
+    "problem_name": "Lattice points enclosed by parabola and line",
+    "solvers": 327,
+    "difficulty": 55,
+    "release_date": "2012-11-24T22:00:00"
+  },
+  {
+    "problem_number": 404,
+    "problem_name": "Crisscross Ellipses",
+    "solvers": 294,
+    "difficulty": 60,
+    "release_date": "2012-12-02T01:00:00"
+  },
+  {
+    "problem_number": 405,
+    "problem_name": "A rectangular tiling",
+    "solvers": 549,
+    "difficulty": 40,
+    "release_date": "2012-12-09T04:00:00"
+  },
+  {
+    "problem_number": 406,
+    "problem_name": "Guessing Game",
+    "solvers": 341,
+    "difficulty": 50,
+    "release_date": "2012-12-16T07:00:00"
+  },
+  {
+    "problem_number": 407,
+    "problem_name": "Idempotents",
+    "solvers": 2259,
+    "difficulty": 20,
+    "release_date": "2012-12-23T10:00:00"
+  },
+  {
+    "problem_number": 408,
+    "problem_name": "Admissible paths through a grid",
+    "solvers": 519,
+    "difficulty": 50,
+    "release_date": "2012-12-29T13:00:00"
+  },
+  {
+    "problem_number": 409,
+    "problem_name": "Nim Extreme",
+    "solvers": 420,
+    "difficulty": 55,
+    "release_date": "2013-01-05T16:00:00"
+  },
+  {
+    "problem_number": 410,
+    "problem_name": "Circle and tangent line",
+    "solvers": 253,
+    "difficulty": 70,
+    "release_date": "2013-01-12T19:00:00"
+  },
+  {
+    "problem_number": 411,
+    "problem_name": "Uphill paths",
+    "solvers": 579,
+    "difficulty": 45,
+    "release_date": "2013-01-19T22:00:00"
+  },
+  {
+    "problem_number": 412,
+    "problem_name": "Gnomon numbering",
+    "solvers": 457,
+    "difficulty": 50,
+    "release_date": "2013-01-27T01:00:00"
+  },
+  {
+    "problem_number": 413,
+    "problem_name": "One-child Numbers",
+    "solvers": 348,
+    "difficulty": 75,
+    "release_date": "2013-02-03T04:00:00"
+  },
+  {
+    "problem_number": 414,
+    "problem_name": "Kaprekar constant",
+    "solvers": 249,
+    "difficulty": 60,
+    "release_date": "2013-02-10T07:00:00"
+  },
+  {
+    "problem_number": 415,
+    "problem_name": "Titanic sets",
+    "solvers": 273,
+    "difficulty": 100,
+    "release_date": "2013-02-17T10:00:00"
+  },
+  {
+    "problem_number": 416,
+    "problem_name": "A frog's trip",
+    "solvers": 271,
+    "difficulty": 80,
+    "release_date": "2013-02-23T13:00:00"
+  },
+  {
+    "problem_number": 417,
+    "problem_name": "Reciprocal cycles II",
+    "solvers": 774,
+    "difficulty": 35,
+    "release_date": "2013-03-02T16:00:00"
+  },
+  {
+    "problem_number": 418,
+    "problem_name": "Factorisation triples",
+    "solvers": 632,
+    "difficulty": 40,
+    "release_date": "2013-03-09T19:00:00"
+  },
+  {
+    "problem_number": 419,
+    "problem_name": "Look and say sequence",
+    "solvers": 446,
+    "difficulty": 50,
+    "release_date": "2013-03-16T22:00:00"
+  },
+  {
+    "problem_number": 420,
+    "problem_name": "2x2 positive integer matrix",
+    "solvers": 402,
+    "difficulty": 60,
+    "release_date": "2013-03-24T01:00:00"
+  },
+  {
+    "problem_number": 421,
+    "problem_name": "Prime factors of n15+1",
+    "solvers": 590,
+    "difficulty": 50,
+    "release_date": "2013-03-31T04:00:00"
+  },
+  {
+    "problem_number": 422,
+    "problem_name": "Sequence of points on a hyperbola",
+    "solvers": 248,
+    "difficulty": 75,
+    "release_date": "2013-04-07T07:00:00"
+  },
+  {
+    "problem_number": 423,
+    "problem_name": "Consecutive die throws",
+    "solvers": 441,
+    "difficulty": 45,
+    "release_date": "2013-04-14T10:00:00"
+  },
+  {
+    "problem_number": 424,
+    "problem_name": "Kakuro",
+    "solvers": 362,
+    "difficulty": 60,
+    "release_date": "2013-04-20T13:00:00"
+  },
+  {
+    "problem_number": 425,
+    "problem_name": "Prime connection",
+    "solvers": 1333,
+    "difficulty": 25,
+    "release_date": "2013-04-27T16:00:00"
+  },
+  {
+    "problem_number": 426,
+    "problem_name": "Box-ball system",
+    "solvers": 233,
+    "difficulty": 75,
+    "release_date": "2013-05-04T19:00:00"
+  },
+  {
+    "problem_number": 427,
+    "problem_name": "n-sequences",
+    "solvers": 271,
+    "difficulty": 95,
+    "release_date": "2013-05-11T22:00:00"
+  },
+  {
+    "problem_number": 428,
+    "problem_name": "Necklace of circles",
+    "solvers": 218,
+    "difficulty": 90,
+    "release_date": "2013-05-19T01:00:00"
+  },
+  {
+    "problem_number": 429,
+    "problem_name": "Sum of squares of unitary divisors",
+    "solvers": 2358,
+    "difficulty": 20,
+    "release_date": "2013-05-26T04:00:00"
+  },
+  {
+    "problem_number": 430,
+    "problem_name": "Range flips",
+    "solvers": 787,
+    "difficulty": 35,
+    "release_date": "2013-06-02T07:00:00"
+  },
+  {
+    "problem_number": 431,
+    "problem_name": "Square Space Silo",
+    "solvers": 561,
+    "difficulty": 40,
+    "release_date": "2013-06-09T10:00:00"
+  },
+  {
+    "problem_number": 432,
+    "problem_name": "Totient sum",
+    "solvers": 437,
+    "difficulty": 70,
+    "release_date": "2013-06-15T13:00:00"
+  },
+  {
+    "problem_number": 433,
+    "problem_name": "Steps in Euclid's algorithm",
+    "solvers": 440,
+    "difficulty": 65,
+    "release_date": "2013-06-22T16:00:00"
+  },
+  {
+    "problem_number": 434,
+    "problem_name": "Rigid graphs",
+    "solvers": 313,
+    "difficulty": 75,
+    "release_date": "2013-06-29T19:00:00"
+  },
+  {
+    "problem_number": 435,
+    "problem_name": "Polynomials of Fibonacci numbers",
+    "solvers": 1000,
+    "difficulty": 30,
+    "release_date": "2013-09-07T16:00:00"
+  },
+  {
+    "problem_number": 436,
+    "problem_name": "Unfair wager",
+    "solvers": 414,
+    "difficulty": 55,
+    "release_date": "2013-09-14T19:00:00"
+  },
+  {
+    "problem_number": 437,
+    "problem_name": "Fibonacci primitive roots",
+    "solvers": 707,
+    "difficulty": 35,
+    "release_date": "2013-09-21T22:00:00"
+  },
+  {
+    "problem_number": 438,
+    "problem_name": "Integer part of polynomial equation's solutions",
+    "solvers": 250,
+    "difficulty": 95,
+    "release_date": "2013-09-29T01:00:00"
+  },
+  {
+    "problem_number": 439,
+    "problem_name": "Sum of sum of divisors",
+    "solvers": 347,
+    "difficulty": 100,
+    "release_date": "2013-10-06T04:00:00"
+  },
+  {
+    "problem_number": 440,
+    "problem_name": "GCD and Tiling",
+    "solvers": 338,
+    "difficulty": 60,
+    "release_date": "2013-10-13T07:00:00"
+  },
+  {
+    "problem_number": 441,
+    "problem_name": "The inverse summation of coprime couples",
+    "solvers": 327,
+    "difficulty": 65,
+    "release_date": "2013-10-20T10:00:00"
+  },
+  {
+    "problem_number": 442,
+    "problem_name": "Eleven-free integers",
+    "solvers": 357,
+    "difficulty": 60,
+    "release_date": "2013-10-26T13:00:00"
+  },
+  {
+    "problem_number": 443,
+    "problem_name": "GCD sequence",
+    "solvers": 1039,
+    "difficulty": 30,
+    "release_date": "2013-11-02T16:00:00"
+  },
+  {
+    "problem_number": 444,
+    "problem_name": "The Roundtable Lottery",
+    "solvers": 275,
+    "difficulty": 60,
+    "release_date": "2013-11-09T19:00:00"
+  },
+  {
+    "problem_number": 445,
+    "problem_name": "Retractions A",
+    "solvers": 337,
+    "difficulty": 50,
+    "release_date": "2013-11-16T22:00:00"
+  },
+  {
+    "problem_number": 446,
+    "problem_name": "Retractions B",
+    "solvers": 315,
+    "difficulty": 60,
+    "release_date": "2013-11-16T22:00:00"
+  },
+  {
+    "problem_number": 447,
+    "problem_name": "Retractions C",
+    "solvers": 254,
+    "difficulty": 95,
+    "release_date": "2013-11-16T22:00:00"
+  },
+  {
+    "problem_number": 448,
+    "problem_name": "Average least common multiple",
+    "solvers": 300,
+    "difficulty": 80,
+    "release_date": "2013-11-24T01:00:00"
+  },
+  {
+    "problem_number": 449,
+    "problem_name": "Chocolate covered candy",
+    "solvers": 828,
+    "difficulty": 40,
+    "release_date": "2013-12-08T04:00:00"
+  },
+  {
+    "problem_number": 450,
+    "problem_name": "Hypocycloid and Lattice points",
+    "solvers": 177,
+    "difficulty": 100,
+    "release_date": "2013-12-15T07:00:00"
+  },
+  {
+    "problem_number": 451,
+    "problem_name": "Modular inverses",
+    "solvers": 1297,
+    "difficulty": 30,
+    "release_date": "2013-12-22T10:00:00"
+  },
+  {
+    "problem_number": 452,
+    "problem_name": "Long Products",
+    "solvers": 518,
+    "difficulty": 45,
+    "release_date": "2013-12-28T13:00:00"
+  },
+  {
+    "problem_number": 453,
+    "problem_name": "Lattice Quadrilaterals",
+    "solvers": 199,
+    "difficulty": 95,
+    "release_date": "2014-01-04T16:00:00"
+  },
+  {
+    "problem_number": 454,
+    "problem_name": "Diophantine reciprocals III",
+    "solvers": 427,
+    "difficulty": 50,
+    "release_date": "2014-01-11T19:00:00"
+  },
+  {
+    "problem_number": 455,
+    "problem_name": "Powers With Trailing Digits",
+    "solvers": 650,
+    "difficulty": 40,
+    "release_date": "2014-01-18T22:00:00"
+  },
+  {
+    "problem_number": 456,
+    "problem_name": "Triangles containing the origin II",
+    "solvers": 377,
+    "difficulty": 55,
+    "release_date": "2014-01-26T01:00:00"
+  },
+  {
+    "problem_number": 457,
+    "problem_name": "A polynomial modulo the square of a prime",
+    "solvers": 699,
+    "difficulty": 35,
+    "release_date": "2014-02-02T04:00:00"
+  },
+  {
+    "problem_number": 458,
+    "problem_name": "Permutations of Project",
+    "solvers": 844,
+    "difficulty": 30,
+    "release_date": "2014-02-09T07:00:00"
+  },
+  {
+    "problem_number": 459,
+    "problem_name": "Flipping game",
+    "solvers": 212,
+    "difficulty": 100,
+    "release_date": "2014-02-16T10:00:00"
+  },
+  {
+    "problem_number": 460,
+    "problem_name": "An ant on the move",
+    "solvers": 297,
+    "difficulty": 60,
+    "release_date": "2014-02-22T13:00:00"
+  },
+  {
+    "problem_number": 461,
+    "problem_name": "Almost Pi",
+    "solvers": 1096,
+    "difficulty": 30,
+    "release_date": "2014-03-01T16:00:00"
+  },
+  {
+    "problem_number": 462,
+    "problem_name": "Permutation of 3-smooth numbers",
+    "solvers": 283,
+    "difficulty": 60,
+    "release_date": "2014-03-08T19:00:00"
+  },
+  {
+    "problem_number": 463,
+    "problem_name": "A weird recurrence relation",
+    "solvers": 991,
+    "difficulty": 35,
+    "release_date": "2014-03-15T22:00:00"
+  },
+  {
+    "problem_number": 464,
+    "problem_name": "M\u00f6bius function and intervals",
+    "solvers": 274,
+    "difficulty": 60,
+    "release_date": "2014-03-23T01:00:00"
+  },
+  {
+    "problem_number": 465,
+    "problem_name": "Polar polygons",
+    "solvers": 198,
+    "difficulty": 85,
+    "release_date": "2014-03-30T05:00:00"
+  },
+  {
+    "problem_number": 466,
+    "problem_name": "Distinct terms in a multiplication table",
+    "solvers": 291,
+    "difficulty": 65,
+    "release_date": "2014-04-06T07:00:00"
+  },
+  {
+    "problem_number": 467,
+    "problem_name": "Superinteger",
+    "solvers": 394,
+    "difficulty": 50,
+    "release_date": "2014-04-13T10:00:00"
+  },
+  {
+    "problem_number": 468,
+    "problem_name": "Smooth divisors of binomial coefficients",
+    "solvers": 242,
+    "difficulty": 70,
+    "release_date": "2014-04-19T13:00:00"
+  },
+  {
+    "problem_number": 469,
+    "problem_name": "Empty chairs",
+    "solvers": 680,
+    "difficulty": 40,
+    "release_date": "2014-04-26T16:00:00"
+  },
+  {
+    "problem_number": 470,
+    "problem_name": "Super Ramvok",
+    "solvers": 210,
+    "difficulty": 65,
+    "release_date": "2014-05-03T19:00:00"
+  },
+  {
+    "problem_number": 471,
+    "problem_name": "Triangle inscribed in ellipse",
+    "solvers": 191,
+    "difficulty": 75,
+    "release_date": "2014-05-10T22:00:00"
+  },
+  {
+    "problem_number": 472,
+    "problem_name": "Comfortable Distance II",
+    "solvers": 243,
+    "difficulty": 60,
+    "release_date": "2014-05-18T01:00:00"
+  },
+  {
+    "problem_number": 473,
+    "problem_name": "Phigital number base",
+    "solvers": 663,
+    "difficulty": 35,
+    "release_date": "2014-05-25T04:00:00"
+  },
+  {
+    "problem_number": 474,
+    "problem_name": "Last digits of divisors",
+    "solvers": 373,
+    "difficulty": 50,
+    "release_date": "2014-06-01T07:00:00"
+  },
+  {
+    "problem_number": 475,
+    "problem_name": "Music festival",
+    "solvers": 405,
+    "difficulty": 50,
+    "release_date": "2014-06-08T10:00:00"
+  },
+  {
+    "problem_number": 476,
+    "problem_name": "Circle Packing II",
+    "solvers": 388,
+    "difficulty": 45,
+    "release_date": "2014-06-14T13:00:00"
+  },
+  {
+    "problem_number": 477,
+    "problem_name": "Number Sequence Game",
+    "solvers": 234,
+    "difficulty": 65,
+    "release_date": "2014-08-23T16:00:00"
+  },
+  {
+    "problem_number": 478,
+    "problem_name": "Mixtures",
+    "solvers": 168,
+    "difficulty": 100,
+    "release_date": "2014-08-30T19:00:00"
+  },
+  {
+    "problem_number": 479,
+    "problem_name": "Roots on the Rise",
+    "solvers": 1178,
+    "difficulty": 25,
+    "release_date": "2014-09-06T22:00:00"
+  },
+  {
+    "problem_number": 480,
+    "problem_name": "The Last Question",
+    "solvers": 522,
+    "difficulty": 45,
+    "release_date": "2014-09-14T01:00:00"
+  },
+  {
+    "problem_number": 481,
+    "problem_name": "Chef Showdown",
+    "solvers": 209,
+    "difficulty": 70,
+    "release_date": "2014-09-21T04:00:00"
+  },
+  {
+    "problem_number": 482,
+    "problem_name": "The incenter of a triangle",
+    "solvers": 192,
+    "difficulty": 85,
+    "release_date": "2014-09-28T07:00:00"
+  },
+  {
+    "problem_number": 483,
+    "problem_name": "Repeated permutation",
+    "solvers": 195,
+    "difficulty": 100,
+    "release_date": "2014-10-05T10:00:00"
+  },
+  {
+    "problem_number": 484,
+    "problem_name": "Arithmetic Derivative",
+    "solvers": 283,
+    "difficulty": 100,
+    "release_date": "2014-10-11T13:00:00"
+  },
+  {
+    "problem_number": 485,
+    "problem_name": "Maximum number of divisors",
+    "solvers": 1042,
+    "difficulty": 30,
+    "release_date": "2014-10-18T16:00:00"
+  },
+  {
+    "problem_number": 486,
+    "problem_name": "Palindrome-containing strings",
+    "solvers": 227,
+    "difficulty": 70,
+    "release_date": "2014-10-25T19:00:00"
+  },
+  {
+    "problem_number": 487,
+    "problem_name": "Sums of power sums",
+    "solvers": 580,
+    "difficulty": 40,
+    "release_date": "2014-11-01T22:00:00"
+  },
+  {
+    "problem_number": 488,
+    "problem_name": "Unbalanced Nim",
+    "solvers": 213,
+    "difficulty": 80,
+    "release_date": "2014-11-09T01:00:00"
+  },
+  {
+    "problem_number": 489,
+    "problem_name": "Common factors between two sequences",
+    "solvers": 207,
+    "difficulty": 100,
+    "release_date": "2014-11-16T04:00:00"
+  },
+  {
+    "problem_number": 490,
+    "problem_name": "Jumping frog",
+    "solvers": 255,
+    "difficulty": 95,
+    "release_date": "2014-11-23T07:00:00"
+  },
+  {
+    "problem_number": 491,
+    "problem_name": "Double pandigital number divisible by 11",
+    "solvers": 1973,
+    "difficulty": 20,
+    "release_date": "2014-11-30T10:00:00"
+  },
+  {
+    "problem_number": 492,
+    "problem_name": "Exploding sequence",
+    "solvers": 311,
+    "difficulty": 60,
+    "release_date": "2014-12-06T13:00:00"
+  },
+  {
+    "problem_number": 493,
+    "problem_name": "Under The Rainbow",
+    "solvers": 4920,
+    "difficulty": 10,
+    "release_date": "2014-12-13T16:00:00"
+  },
+  {
+    "problem_number": 494,
+    "problem_name": "Collatz prefix families",
+    "solvers": 189,
+    "difficulty": 100,
+    "release_date": "2014-12-20T19:00:00"
+  },
+  {
+    "problem_number": 495,
+    "problem_name": "Writing n as the product of k distinct positive integers",
+    "solvers": 245,
+    "difficulty": 100,
+    "release_date": "2014-12-27T22:00:00"
+  },
+  {
+    "problem_number": 496,
+    "problem_name": "Incenter and circumcenter of triangle",
+    "solvers": 278,
+    "difficulty": 50,
+    "release_date": "2015-01-04T01:00:00"
+  },
+  {
+    "problem_number": 497,
+    "problem_name": "Drunken Tower of Hanoi",
+    "solvers": 454,
+    "difficulty": 40,
+    "release_date": "2015-01-11T04:00:00"
+  },
+  {
+    "problem_number": 498,
+    "problem_name": "Remainder of polynomial division",
+    "solvers": 462,
+    "difficulty": 40,
+    "release_date": "2015-01-18T07:00:00"
+  },
+  {
+    "problem_number": 499,
+    "problem_name": "St. Petersburg Lottery",
+    "solvers": 287,
+    "difficulty": 100,
+    "release_date": "2015-01-25T10:00:00"
+  },
+  {
+    "problem_number": 500,
+    "problem_name": "Problem 500!!!",
+    "solvers": 3684,
+    "difficulty": 15,
+    "release_date": "2015-01-31T13:00:00"
+  },
+  {
+    "problem_number": 501,
+    "problem_name": "Eight Divisors",
+    "solvers": 1202,
+    "difficulty": 40,
+    "release_date": "2015-01-31T13:00:00"
+  },
+  {
+    "problem_number": 502,
+    "problem_name": "Counting Castles",
+    "solvers": 248,
+    "difficulty": 100,
+    "release_date": "2015-02-07T16:00:00"
+  },
+  {
+    "problem_number": 503,
+    "problem_name": "Compromise or persist",
+    "solvers": 281,
+    "difficulty": 60,
+    "release_date": "2015-02-14T19:00:00"
+  },
+  {
+    "problem_number": 504,
+    "problem_name": "Square on the Inside",
+    "solvers": 2821,
+    "difficulty": 15,
+    "release_date": "2015-02-21T22:00:00"
+  },
+  {
+    "problem_number": 505,
+    "problem_name": "Bidirectional Recurrence",
+    "solvers": 189,
+    "difficulty": 90,
+    "release_date": "2015-03-01T01:00:00"
+  },
+  {
+    "problem_number": 506,
+    "problem_name": "Clock sequence",
+    "solvers": 789,
+    "difficulty": 30,
+    "release_date": "2015-03-08T04:00:00"
+  },
+  {
+    "problem_number": 507,
+    "problem_name": "Shortest Lattice Vector",
+    "solvers": 188,
+    "difficulty": 90,
+    "release_date": "2015-03-15T07:00:00"
+  },
+  {
+    "problem_number": 508,
+    "problem_name": "Integers in base i-1",
+    "solvers": 208,
+    "difficulty": 90,
+    "release_date": "2015-03-22T10:00:00"
+  },
+  {
+    "problem_number": 509,
+    "problem_name": "Divisor Nim",
+    "solvers": 516,
+    "difficulty": 45,
+    "release_date": "2015-03-28T13:00:00"
+  },
+  {
+    "problem_number": 510,
+    "problem_name": "Tangent Circles",
+    "solvers": 929,
+    "difficulty": 30,
+    "release_date": "2015-04-04T16:00:00"
+  },
+  {
+    "problem_number": 511,
+    "problem_name": "Sequences with nice divisibility properties",
+    "solvers": 378,
+    "difficulty": 55,
+    "release_date": "2015-04-11T19:00:00"
+  },
+  {
+    "problem_number": 512,
+    "problem_name": "Sums of totients of powers",
+    "solvers": 1368,
+    "difficulty": 25,
+    "release_date": "2015-04-18T22:00:00"
+  },
+  {
+    "problem_number": 513,
+    "problem_name": "Integral median",
+    "solvers": 278,
+    "difficulty": 60,
+    "release_date": "2015-04-26T01:00:00"
+  },
+  {
+    "problem_number": 514,
+    "problem_name": "Geoboard Shapes",
+    "solvers": 193,
+    "difficulty": 90,
+    "release_date": "2015-05-03T04:00:00"
+  },
+  {
+    "problem_number": 515,
+    "problem_name": "Dissonant Numbers",
+    "solvers": 420,
+    "difficulty": 40,
+    "release_date": "2015-05-10T07:00:00"
+  },
+  {
+    "problem_number": 516,
+    "problem_name": "5-smooth totients",
+    "solvers": 1421,
+    "difficulty": 20,
+    "release_date": "2015-05-17T10:00:00"
+  },
+  {
+    "problem_number": 517,
+    "problem_name": "A real recursion",
+    "solvers": 418,
+    "difficulty": 45,
+    "release_date": "2015-05-23T13:00:00"
+  },
+  {
+    "problem_number": 518,
+    "problem_name": "Prime triples and geometric sequences",
+    "solvers": 1461,
+    "difficulty": 20,
+    "release_date": "2015-05-30T16:00:00"
+  },
+  {
+    "problem_number": 519,
+    "problem_name": "Tricoloured Coin Fountains",
+    "solvers": 313,
+    "difficulty": 50,
+    "release_date": "2015-06-06T19:00:00"
+  },
+  {
+    "problem_number": 520,
+    "problem_name": "Simbers",
+    "solvers": 363,
+    "difficulty": 45,
+    "release_date": "2015-06-13T22:00:00"
+  },
+  {
+    "problem_number": 521,
+    "problem_name": "Smallest prime factor",
+    "solvers": 678,
+    "difficulty": 50,
+    "release_date": "2015-06-21T01:00:00"
+  },
+  {
+    "problem_number": 522,
+    "problem_name": "Hilbert's Blackout",
+    "solvers": 238,
+    "difficulty": 85,
+    "release_date": "2015-06-28T04:00:00"
+  },
+  {
+    "problem_number": 523,
+    "problem_name": "First Sort I",
+    "solvers": 883,
+    "difficulty": 30,
+    "release_date": "2015-09-06T07:00:00"
+  },
+  {
+    "problem_number": 524,
+    "problem_name": "First Sort II",
+    "solvers": 189,
+    "difficulty": 75,
+    "release_date": "2015-09-06T07:00:00"
+  },
+  {
+    "problem_number": 525,
+    "problem_name": "Rolling Ellipse",
+    "solvers": 448,
+    "difficulty": 45,
+    "release_date": "2015-09-13T10:00:00"
+  },
+  {
+    "problem_number": 526,
+    "problem_name": "Largest prime factors of consecutive numbers",
+    "solvers": 273,
+    "difficulty": 60,
+    "release_date": "2015-09-19T13:00:00"
+  },
+  {
+    "problem_number": 527,
+    "problem_name": "Randomized Binary Search",
+    "solvers": 658,
+    "difficulty": 30,
+    "release_date": "2015-09-26T16:00:00"
+  },
+  {
+    "problem_number": 528,
+    "problem_name": "Constrained Sums",
+    "solvers": 245,
+    "difficulty": 60,
+    "release_date": "2015-10-03T19:00:00"
+  },
+  {
+    "problem_number": 529,
+    "problem_name": "10-substrings",
+    "solvers": 214,
+    "difficulty": 85,
+    "release_date": "2015-10-10T22:00:00"
+  },
+  {
+    "problem_number": 530,
+    "problem_name": "GCD of Divisors",
+    "solvers": 393,
+    "difficulty": 60,
+    "release_date": "2015-10-18T01:00:00"
+  },
+  {
+    "problem_number": 531,
+    "problem_name": "Chinese leftovers",
+    "solvers": 1013,
+    "difficulty": 25,
+    "release_date": "2015-10-25T04:00:00"
+  },
+  {
+    "problem_number": 532,
+    "problem_name": "Nanobots on Geodesics",
+    "solvers": 278,
+    "difficulty": 55,
+    "release_date": "2015-11-01T07:00:00"
+  },
+  {
+    "problem_number": 533,
+    "problem_name": "Minimum values of the Carmichael function",
+    "solvers": 294,
+    "difficulty": 50,
+    "release_date": "2015-11-08T10:00:00"
+  },
+  {
+    "problem_number": 534,
+    "problem_name": "Weak Queens",
+    "solvers": 263,
+    "difficulty": 55,
+    "release_date": "2015-11-14T13:00:00"
+  },
+  {
+    "problem_number": 535,
+    "problem_name": "Fractal Sequence",
+    "solvers": 257,
+    "difficulty": 60,
+    "release_date": "2015-11-21T16:00:00"
+  },
+  {
+    "problem_number": 536,
+    "problem_name": "Modulo power identity ",
+    "solvers": 250,
+    "difficulty": 60,
+    "release_date": "2015-11-28T19:00:00"
+  },
+  {
+    "problem_number": 537,
+    "problem_name": "Counting tuples",
+    "solvers": 552,
+    "difficulty": 35,
+    "release_date": "2015-12-05T22:00:00"
+  },
+  {
+    "problem_number": 538,
+    "problem_name": "Maximum quadrilaterals",
+    "solvers": 292,
+    "difficulty": 40,
+    "release_date": "2015-12-13T01:00:00"
+  },
+  {
+    "problem_number": 539,
+    "problem_name": "Odd elimination",
+    "solvers": 730,
+    "difficulty": 30,
+    "release_date": "2015-12-20T04:00:00"
+  },
+  {
+    "problem_number": 540,
+    "problem_name": "Counting primitive Pythagorean triples",
+    "solvers": 549,
+    "difficulty": 30,
+    "release_date": "2015-12-27T07:00:00"
+  },
+  {
+    "problem_number": 541,
+    "problem_name": "Divisibility of Harmonic Number Denominators",
+    "solvers": 178,
+    "difficulty": 90,
+    "release_date": "2016-01-03T10:00:00"
+  },
+  {
+    "problem_number": 542,
+    "problem_name": "Geometric Progression with Maximum Sum",
+    "solvers": 199,
+    "difficulty": 65,
+    "release_date": "2016-01-09T13:00:00"
+  },
+  {
+    "problem_number": 543,
+    "problem_name": "Prime-Sum Numbers",
+    "solvers": 612,
+    "difficulty": 30,
+    "release_date": "2016-01-16T16:00:00"
+  },
+  {
+    "problem_number": 544,
+    "problem_name": "Chromatic Conundrum",
+    "solvers": 210,
+    "difficulty": 90,
+    "release_date": "2016-01-23T19:00:00"
+  },
+  {
+    "problem_number": 545,
+    "problem_name": "Faulhaber's Formulas",
+    "solvers": 467,
+    "difficulty": 35,
+    "release_date": "2016-01-30T22:00:00"
+  },
+  {
+    "problem_number": 546,
+    "problem_name": "The Floor's Revenge",
+    "solvers": 203,
+    "difficulty": 85,
+    "release_date": "2016-02-07T01:00:00"
+  },
+  {
+    "problem_number": 547,
+    "problem_name": "Distance of random points within hollow square laminae",
+    "solvers": 188,
+    "difficulty": 70,
+    "release_date": "2016-02-14T04:00:00"
+  },
+  {
+    "problem_number": 548,
+    "problem_name": "Gozinta Chains",
+    "solvers": 542,
+    "difficulty": 35,
+    "release_date": "2016-02-21T07:00:00"
+  },
+  {
+    "problem_number": 549,
+    "problem_name": "Divisibility of factorials",
+    "solvers": 2468,
+    "difficulty": 15,
+    "release_date": "2016-02-28T10:00:00"
+  },
+  {
+    "problem_number": 550,
+    "problem_name": "Divisor game",
+    "solvers": 303,
+    "difficulty": 55,
+    "release_date": "2016-03-05T13:00:00"
+  },
+  {
+    "problem_number": 551,
+    "problem_name": "Sum of digits sequence",
+    "solvers": 418,
+    "difficulty": 50,
+    "release_date": "2016-03-12T16:00:00"
+  },
+  {
+    "problem_number": 552,
+    "problem_name": "Chinese leftovers II",
+    "solvers": 388,
+    "difficulty": 40,
+    "release_date": "2016-03-19T19:00:00"
+  },
+  {
+    "problem_number": 553,
+    "problem_name": "Power sets of power sets",
+    "solvers": 192,
+    "difficulty": 85,
+    "release_date": "2016-03-26T22:00:00"
+  },
+  {
+    "problem_number": 554,
+    "problem_name": "Centaurs on a chess board",
+    "solvers": 202,
+    "difficulty": 80,
+    "release_date": "2016-04-03T01:00:00"
+  },
+  {
+    "problem_number": 555,
+    "problem_name": "McCarthy 91 function",
+    "solvers": 618,
+    "difficulty": 30,
+    "release_date": "2016-04-10T04:00:00"
+  },
+  {
+    "problem_number": 556,
+    "problem_name": "Squarefree Gaussian Integers",
+    "solvers": 211,
+    "difficulty": 85,
+    "release_date": "2016-04-17T07:00:00"
+  },
+  {
+    "problem_number": 557,
+    "problem_name": "Cutting triangles",
+    "solvers": 260,
+    "difficulty": 55,
+    "release_date": "2016-04-24T10:00:00"
+  },
+  {
+    "problem_number": 558,
+    "problem_name": "Irrational base",
+    "solvers": 225,
+    "difficulty": 65,
+    "release_date": "2016-04-30T13:00:00"
+  },
+  {
+    "problem_number": 559,
+    "problem_name": "Permuted Matrices",
+    "solvers": 163,
+    "difficulty": 100,
+    "release_date": "2016-05-07T16:00:00"
+  },
+  {
+    "problem_number": 560,
+    "problem_name": "Coprime Nim",
+    "solvers": 265,
+    "difficulty": 75,
+    "release_date": "2016-05-14T19:00:00"
+  },
+  {
+    "problem_number": 561,
+    "problem_name": "Divisor Pairs",
+    "solvers": 669,
+    "difficulty": 30,
+    "release_date": "2016-05-21T22:00:00"
+  },
+  {
+    "problem_number": 562,
+    "problem_name": "Maximal perimeter",
+    "solvers": 168,
+    "difficulty": 75,
+    "release_date": "2016-05-29T01:00:00"
+  },
+  {
+    "problem_number": 563,
+    "problem_name": "Robot Welders",
+    "solvers": 293,
+    "difficulty": 45,
+    "release_date": "2016-06-05T04:00:00"
+  },
+  {
+    "problem_number": 564,
+    "problem_name": "Maximal polygons",
+    "solvers": 212,
+    "difficulty": 60,
+    "release_date": "2016-06-12T07:00:00"
+  },
+  {
+    "problem_number": 565,
+    "problem_name": "Divisibility of sum of divisors",
+    "solvers": 547,
+    "difficulty": 35,
+    "release_date": "2016-06-19T10:00:00"
+  },
+  {
+    "problem_number": 566,
+    "problem_name": "Cake Icing Puzzle",
+    "solvers": 137,
+    "difficulty": 100,
+    "release_date": "2016-06-25T13:00:00"
+  },
+  {
+    "problem_number": 567,
+    "problem_name": "Reciprocal games I",
+    "solvers": 249,
+    "difficulty": 55,
+    "release_date": "2016-09-03T16:00:00"
+  },
+  {
+    "problem_number": 568,
+    "problem_name": "Reciprocal games II",
+    "solvers": 242,
+    "difficulty": 55,
+    "release_date": "2016-09-03T16:00:00"
+  },
+  {
+    "problem_number": 569,
+    "problem_name": "Prime Mountain Range",
+    "solvers": 360,
+    "difficulty": 45,
+    "release_date": "2016-09-10T19:00:00"
+  },
+  {
+    "problem_number": 570,
+    "problem_name": "Snowflakes",
+    "solvers": 251,
+    "difficulty": 55,
+    "release_date": "2016-09-17T22:00:00"
+  },
+  {
+    "problem_number": 571,
+    "problem_name": "Super Pandigital Numbers",
+    "solvers": 975,
+    "difficulty": 25,
+    "release_date": "2016-09-25T01:00:00"
+  },
+  {
+    "problem_number": 572,
+    "problem_name": "Idempotent matrices",
+    "solvers": 297,
+    "difficulty": 50,
+    "release_date": "2016-10-02T04:00:00"
+  },
+  {
+    "problem_number": 573,
+    "problem_name": "Unfair race",
+    "solvers": 178,
+    "difficulty": 80,
+    "release_date": "2016-10-09T07:00:00"
+  },
+  {
+    "problem_number": 574,
+    "problem_name": "Verifying Primes",
+    "solvers": 238,
+    "difficulty": 50,
+    "release_date": "2016-10-16T10:00:00"
+  },
+  {
+    "problem_number": 575,
+    "problem_name": "Wandering Robots",
+    "solvers": 510,
+    "difficulty": 35,
+    "release_date": "2016-10-22T13:00:00"
+  },
+  {
+    "problem_number": 576,
+    "problem_name": "Irrational jumps",
+    "solvers": 207,
+    "difficulty": 55,
+    "release_date": "2016-10-29T16:00:00"
+  },
+  {
+    "problem_number": 577,
+    "problem_name": "Counting hexagons",
+    "solvers": 1415,
+    "difficulty": 20,
+    "release_date": "2016-11-12T19:00:00"
+  },
+  {
+    "problem_number": 578,
+    "problem_name": "Integers with decreasing prime powers",
+    "solvers": 199,
+    "difficulty": 80,
+    "release_date": "2016-11-19T22:00:00"
+  },
+  {
+    "problem_number": 579,
+    "problem_name": "Lattice points in lattice cubes",
+    "solvers": 134,
+    "difficulty": 100,
+    "release_date": "2016-11-27T01:00:00"
+  },
+  {
+    "problem_number": 580,
+    "problem_name": "Squarefree Hilbert numbers",
+    "solvers": 212,
+    "difficulty": 70,
+    "release_date": "2016-12-04T04:00:00"
+  },
+  {
+    "problem_number": 581,
+    "problem_name": "47-smooth triangular numbers",
+    "solvers": 754,
+    "difficulty": 30,
+    "release_date": "2016-12-11T07:00:00"
+  },
+  {
+    "problem_number": 582,
+    "problem_name": "Nearly isosceles 120 degree triangles",
+    "solvers": 282,
+    "difficulty": 50,
+    "release_date": "2016-12-18T10:00:00"
+  },
+  {
+    "problem_number": 583,
+    "problem_name": "Heron Envelopes",
+    "solvers": 333,
+    "difficulty": 45,
+    "release_date": "2016-12-24T13:00:00"
+  },
+  {
+    "problem_number": 584,
+    "problem_name": "Birthday Problem Revisited",
+    "solvers": 165,
+    "difficulty": 100,
+    "release_date": "2016-12-31T16:00:00"
+  },
+  {
+    "problem_number": 585,
+    "problem_name": "Nested square roots",
+    "solvers": 145,
+    "difficulty": 100,
+    "release_date": "2017-01-07T19:00:00"
+  },
+  {
+    "problem_number": 586,
+    "problem_name": "Binary Quadratic Form",
+    "solvers": 192,
+    "difficulty": 75,
+    "release_date": "2017-01-14T22:00:00"
+  },
+  {
+    "problem_number": 587,
+    "problem_name": "Concave triangle",
+    "solvers": 2773,
+    "difficulty": 20,
+    "release_date": "2017-01-22T01:00:00"
+  },
+  {
+    "problem_number": 588,
+    "problem_name": "Quintinomial coefficients",
+    "solvers": 378,
+    "difficulty": 40,
+    "release_date": "2017-01-29T04:00:00"
+  },
+  {
+    "problem_number": 589,
+    "problem_name": "Poohsticks Marathon",
+    "solvers": 165,
+    "difficulty": 95,
+    "release_date": "2017-02-05T07:00:00"
+  },
+  {
+    "problem_number": 590,
+    "problem_name": "Sets with a given Least Common Multiple",
+    "solvers": 234,
+    "difficulty": 60,
+    "release_date": "2017-02-12T10:00:00"
+  },
+  {
+    "problem_number": 591,
+    "problem_name": "Best Approximations by Quadratic Integers",
+    "solvers": 168,
+    "difficulty": 95,
+    "release_date": "2017-02-18T13:00:00"
+  },
+  {
+    "problem_number": 592,
+    "problem_name": "Factorial trailing digits 2",
+    "solvers": 251,
+    "difficulty": 60,
+    "release_date": "2017-02-25T16:00:00"
+  },
+  {
+    "problem_number": 593,
+    "problem_name": "Fleeting Medians",
+    "solvers": 472,
+    "difficulty": 35,
+    "release_date": "2017-03-04T19:00:00"
+  },
+  {
+    "problem_number": 594,
+    "problem_name": "Rhombus Tilings",
+    "solvers": 167,
+    "difficulty": 85,
+    "release_date": "2017-03-11T22:00:00"
+  },
+  {
+    "problem_number": 595,
+    "problem_name": "Incremental Random Sort",
+    "solvers": 553,
+    "difficulty": 35,
+    "release_date": "2017-03-19T01:00:00"
+  },
+  {
+    "problem_number": 596,
+    "problem_name": "Number of lattice points in a hyperball",
+    "solvers": 320,
+    "difficulty": 50,
+    "release_date": "2017-03-26T04:00:00"
+  },
+  {
+    "problem_number": 597,
+    "problem_name": "Torpids",
+    "solvers": 139,
+    "difficulty": 100,
+    "release_date": "2017-04-02T07:00:00"
+  },
+  {
+    "problem_number": 598,
+    "problem_name": "Split Divisibilities",
+    "solvers": 438,
+    "difficulty": 40,
+    "release_date": "2017-04-09T10:00:00"
+  },
+  {
+    "problem_number": 599,
+    "problem_name": "Distinct Colourings of a Rubik's Cube",
+    "solvers": 270,
+    "difficulty": 60,
+    "release_date": "2017-04-15T13:00:00"
+  },
+  {
+    "problem_number": 600,
+    "problem_name": "Integer sided equiangular hexagons",
+    "solvers": 545,
+    "difficulty": 35,
+    "release_date": "2017-04-22T16:00:00"
+  },
+  {
+    "problem_number": 601,
+    "problem_name": "Divisibility streaks",
+    "solvers": 1805,
+    "difficulty": 20,
+    "release_date": "2017-04-29T19:00:00"
+  },
+  {
+    "problem_number": 602,
+    "problem_name": "Product of Head Counts",
+    "solvers": 431,
+    "difficulty": 35,
+    "release_date": "2017-05-06T22:00:00"
+  },
+  {
+    "problem_number": 603,
+    "problem_name": "Substring sums of prime concatenations",
+    "solvers": 369,
+    "difficulty": 45,
+    "release_date": "2017-05-14T01:00:00"
+  },
+  {
+    "problem_number": 604,
+    "problem_name": "Convex path in square",
+    "solvers": 452,
+    "difficulty": 40,
+    "release_date": "2017-05-21T04:00:00"
+  },
+  {
+    "problem_number": 605,
+    "problem_name": "Pairwise Coin-Tossing Game",
+    "solvers": 735,
+    "difficulty": 25,
+    "release_date": "2017-05-28T07:00:00"
+  },
+  {
+    "problem_number": 606,
+    "problem_name": "Gozinta Chains II",
+    "solvers": 333,
+    "difficulty": 50,
+    "release_date": "2017-06-04T10:00:00"
+  },
+  {
+    "problem_number": 607,
+    "problem_name": "Marsh Crossing",
+    "solvers": 1519,
+    "difficulty": 20,
+    "release_date": "2017-06-10T13:00:00"
+  },
+  {
+    "problem_number": 608,
+    "problem_name": "Divisor Sums",
+    "solvers": 270,
+    "difficulty": 80,
+    "release_date": "2017-06-17T16:00:00"
+  },
+  {
+    "problem_number": 609,
+    "problem_name": "\u03c0 sequences",
+    "solvers": 825,
+    "difficulty": 20,
+    "release_date": "2017-09-09T16:00:00"
+  },
+  {
+    "problem_number": 610,
+    "problem_name": "Roman Numerals II",
+    "solvers": 509,
+    "difficulty": 35,
+    "release_date": "2017-09-23T19:00:00"
+  },
+  {
+    "problem_number": 611,
+    "problem_name": "Hallway of square steps",
+    "solvers": 292,
+    "difficulty": 60,
+    "release_date": "2017-10-07T22:00:00"
+  },
+  {
+    "problem_number": 612,
+    "problem_name": "Friend numbers",
+    "solvers": 578,
+    "difficulty": 30,
+    "release_date": "2017-10-22T01:00:00"
+  },
+  {
+    "problem_number": 613,
+    "problem_name": "Pythagorean Ant",
+    "solvers": 1575,
+    "difficulty": 20,
+    "release_date": "2017-11-05T04:00:00"
+  },
+  {
+    "problem_number": 614,
+    "problem_name": "Special partitions 2",
+    "solvers": 273,
+    "difficulty": 55,
+    "release_date": "2017-11-19T07:00:00"
+  },
+  {
+    "problem_number": 615,
+    "problem_name": "The millionth number with at least one million prime factors",
+    "solvers": 515,
+    "difficulty": 35,
+    "release_date": "2017-12-03T10:00:00"
+  },
+  {
+    "problem_number": 616,
+    "problem_name": "Creative numbers",
+    "solvers": 439,
+    "difficulty": 40,
+    "release_date": "2017-12-16T13:00:00"
+  },
+  {
+    "problem_number": 617,
+    "problem_name": "Mirror Power Sequence",
+    "solvers": 348,
+    "difficulty": 40,
+    "release_date": "2017-12-30T16:00:00"
+  },
+  {
+    "problem_number": 618,
+    "problem_name": "Numbers with a given prime factor sum",
+    "solvers": 883,
+    "difficulty": 20,
+    "release_date": "2018-01-13T19:00:00"
+  },
+  {
+    "problem_number": 619,
+    "problem_name": "Square subsets",
+    "solvers": 354,
+    "difficulty": 45,
+    "release_date": "2018-01-27T22:00:00"
+  },
+  {
+    "problem_number": 620,
+    "problem_name": "Planetary Gears",
+    "solvers": 160,
+    "difficulty": 80,
+    "release_date": "2018-02-11T01:00:00"
+  },
+  {
+    "problem_number": 621,
+    "problem_name": "Expressing an integer as the sum of triangular numbers",
+    "solvers": 492,
+    "difficulty": 35,
+    "release_date": "2018-02-25T04:00:00"
+  },
+  {
+    "problem_number": 622,
+    "problem_name": "Riffle Shuffles",
+    "solvers": 1493,
+    "difficulty": 15,
+    "release_date": "2018-03-11T07:00:00"
+  },
+  {
+    "problem_number": 623,
+    "problem_name": "Lambda Count",
+    "solvers": 282,
+    "difficulty": 45,
+    "release_date": "2018-03-25T10:00:00"
+  },
+  {
+    "problem_number": 624,
+    "problem_name": "Two heads are better than one",
+    "solvers": 533,
+    "difficulty": 30,
+    "release_date": "2018-04-07T13:00:00"
+  },
+  {
+    "problem_number": 625,
+    "problem_name": "Gcd sum",
+    "solvers": 504,
+    "difficulty": 35,
+    "release_date": "2018-04-21T16:00:00"
+  },
+  {
+    "problem_number": 626,
+    "problem_name": "Counting Binary Matrices",
+    "solvers": 201,
+    "difficulty": 70,
+    "release_date": "2018-05-05T19:00:00"
+  },
+  {
+    "problem_number": 627,
+    "problem_name": "Counting products",
+    "solvers": 218,
+    "difficulty": 60,
+    "release_date": "2018-05-19T22:00:00"
+  },
+  {
+    "problem_number": 628,
+    "problem_name": "Open chess positions",
+    "solvers": 697,
+    "difficulty": 25,
+    "release_date": "2018-06-03T01:00:00"
+  },
+  {
+    "problem_number": 629,
+    "problem_name": "Scatterstone Nim",
+    "solvers": 211,
+    "difficulty": 55,
+    "release_date": "2018-06-17T04:00:00"
+  },
+  {
+    "problem_number": 630,
+    "problem_name": "Crossed lines",
+    "solvers": 856,
+    "difficulty": 20,
+    "release_date": "2018-07-01T07:00:00"
+  },
+  {
+    "problem_number": 631,
+    "problem_name": "Constrained Permutations",
+    "solvers": 175,
+    "difficulty": 65,
+    "release_date": "2018-07-15T10:00:00"
+  },
+  {
+    "problem_number": 632,
+    "problem_name": "Square prime factors",
+    "solvers": 403,
+    "difficulty": 35,
+    "release_date": "2018-07-28T13:00:00"
+  },
+  {
+    "problem_number": 633,
+    "problem_name": "Square prime factors II",
+    "solvers": 287,
+    "difficulty": 50,
+    "release_date": "2018-07-28T13:00:00"
+  },
+  {
+    "problem_number": 634,
+    "problem_name": "Numbers of the form $a^2b^3$",
+    "solvers": 525,
+    "difficulty": 40,
+    "release_date": "2018-08-11T16:00:00"
+  },
+  {
+    "problem_number": 635,
+    "problem_name": "Subset sums",
+    "solvers": 293,
+    "difficulty": 40,
+    "release_date": "2018-08-25T19:00:00"
+  },
+  {
+    "problem_number": 636,
+    "problem_name": "Restricted Factorisations",
+    "solvers": 148,
+    "difficulty": 90,
+    "release_date": "2018-09-08T22:00:00"
+  },
+  {
+    "problem_number": 637,
+    "problem_name": "Flexible digit sum",
+    "solvers": 282,
+    "difficulty": 45,
+    "release_date": "2018-09-23T01:00:00"
+  },
+  {
+    "problem_number": 638,
+    "problem_name": "Weighted lattice paths",
+    "solvers": 325,
+    "difficulty": 40,
+    "release_date": "2018-10-07T04:00:00"
+  },
+  {
+    "problem_number": 639,
+    "problem_name": "Summing a multiplicative function",
+    "solvers": 211,
+    "difficulty": 70,
+    "release_date": "2018-10-21T07:00:00"
+  },
+  {
+    "problem_number": 640,
+    "problem_name": "Shut the Box",
+    "solvers": 297,
+    "difficulty": 50,
+    "release_date": "2018-10-28T10:00:00"
+  },
+  {
+    "problem_number": 641,
+    "problem_name": "A Long Row of Dice",
+    "solvers": 385,
+    "difficulty": 35,
+    "release_date": "2018-11-03T13:00:00"
+  },
+  {
+    "problem_number": 642,
+    "problem_name": "Sum of largest prime factors",
+    "solvers": 308,
+    "difficulty": 45,
+    "release_date": "2018-11-10T16:00:00"
+  },
+  {
+    "problem_number": 643,
+    "problem_name": "2-Friendly",
+    "solvers": 503,
+    "difficulty": 25,
+    "release_date": "2018-11-17T19:00:00"
+  },
+  {
+    "problem_number": 644,
+    "problem_name": "Squares on the line",
+    "solvers": 137,
+    "difficulty": 90,
+    "release_date": "2018-11-24T22:00:00"
+  },
+  {
+    "problem_number": 645,
+    "problem_name": "Every Day is a Holiday",
+    "solvers": 182,
+    "difficulty": 75,
+    "release_date": "2018-12-02T01:00:00"
+  },
+  {
+    "problem_number": 646,
+    "problem_name": "Bounded Divisors",
+    "solvers": 243,
+    "difficulty": 40,
+    "release_date": "2018-12-09T04:00:00"
+  },
+  {
+    "problem_number": 647,
+    "problem_name": "Linear Transformations of Polygonal Numbers",
+    "solvers": 368,
+    "difficulty": 30,
+    "release_date": "2018-12-16T07:00:00"
+  },
+  {
+    "problem_number": 648,
+    "problem_name": "Skipping Squares",
+    "solvers": 240,
+    "difficulty": 45,
+    "release_date": "2018-12-23T10:00:00"
+  },
+  {
+    "problem_number": 649,
+    "problem_name": "Low-Prime Chessboard Nim",
+    "solvers": 341,
+    "difficulty": 30,
+    "release_date": "2018-12-29T13:00:00"
+  },
+  {
+    "problem_number": 650,
+    "problem_name": "Divisors of Binomial Product",
+    "solvers": 1321,
+    "difficulty": 10,
+    "release_date": "2019-01-05T16:00:00"
+  },
+  {
+    "problem_number": 651,
+    "problem_name": "Patterned Cylinders",
+    "solvers": 147,
+    "difficulty": 70,
+    "release_date": "2019-01-12T19:00:00"
+  },
+  {
+    "problem_number": 652,
+    "problem_name": "Distinct values of a proto-logarithmic function",
+    "solvers": 150,
+    "difficulty": 70,
+    "release_date": "2019-01-19T22:00:00"
+  },
+  {
+    "problem_number": 653,
+    "problem_name": "Frictionless Tube",
+    "solvers": 271,
+    "difficulty": 45,
+    "release_date": "2019-01-27T01:00:00"
+  },
+  {
+    "problem_number": 654,
+    "problem_name": "Neighbourly Constraints",
+    "solvers": 290,
+    "difficulty": 45,
+    "release_date": "2019-02-03T04:00:00"
+  },
+  {
+    "problem_number": 655,
+    "problem_name": "Divisible Palindromes",
+    "solvers": 430,
+    "difficulty": 30,
+    "release_date": "2019-02-10T07:00:00"
+  },
+  {
+    "problem_number": 656,
+    "problem_name": "Palindromic sequences",
+    "solvers": 213,
+    "difficulty": 50,
+    "release_date": "2019-02-17T10:00:00"
+  },
+  {
+    "problem_number": 657,
+    "problem_name": "Incomplete words",
+    "solvers": 442,
+    "difficulty": 30,
+    "release_date": "2019-02-23T13:00:00"
+  },
+  {
+    "problem_number": 658,
+    "problem_name": "Incomplete words II",
+    "solvers": 214,
+    "difficulty": 55,
+    "release_date": "2019-02-23T13:00:00"
+  },
+  {
+    "problem_number": 659,
+    "problem_name": "Largest prime",
+    "solvers": 742,
+    "difficulty": 20,
+    "release_date": "2019-03-02T16:00:00"
+  },
+  {
+    "problem_number": 660,
+    "problem_name": "Pandigital Triangles",
+    "solvers": 257,
+    "difficulty": 40,
+    "release_date": "2019-03-09T19:00:00"
+  },
+  {
+    "problem_number": 661,
+    "problem_name": "A Long Chess Match",
+    "solvers": 197,
+    "difficulty": 55,
+    "release_date": "2019-03-16T22:00:00"
+  },
+  {
+    "problem_number": 662,
+    "problem_name": "Fibonacci paths",
+    "solvers": 617,
+    "difficulty": 25,
+    "release_date": "2019-03-24T01:00:00"
+  },
+  {
+    "problem_number": 663,
+    "problem_name": "Sums of subarrays",
+    "solvers": 294,
+    "difficulty": 35,
+    "release_date": "2019-03-31T04:00:00"
+  },
+  {
+    "problem_number": 664,
+    "problem_name": "An infinite game",
+    "solvers": 170,
+    "difficulty": 65,
+    "release_date": "2019-04-07T07:00:00"
+  },
+  {
+    "problem_number": 665,
+    "problem_name": "Proportionate Nim",
+    "solvers": 218,
+    "difficulty": 55,
+    "release_date": "2019-04-14T10:00:00"
+  },
+  {
+    "problem_number": 666,
+    "problem_name": "Polymorphic Bacteria",
+    "solvers": 237,
+    "difficulty": 45,
+    "release_date": "2019-04-20T13:00:00"
+  },
+  {
+    "problem_number": 667,
+    "problem_name": "Moving Pentagon",
+    "solvers": 183,
+    "difficulty": 80,
+    "release_date": "2019-04-27T16:00:00"
+  },
+  {
+    "problem_number": 668,
+    "problem_name": "Square root smooth Numbers",
+    "solvers": 855,
+    "difficulty": 20,
+    "release_date": "2019-05-04T19:00:00"
+  },
+  {
+    "problem_number": 669,
+    "problem_name": "The King's Banquet",
+    "solvers": 278,
+    "difficulty": 45,
+    "release_date": "2019-05-11T22:00:00"
+  },
+  {
+    "problem_number": 670,
+    "problem_name": "Colouring a Strip",
+    "solvers": 278,
+    "difficulty": 40,
+    "release_date": "2019-05-19T01:00:00"
+  },
+  {
+    "problem_number": 671,
+    "problem_name": "Colouring a Loop",
+    "solvers": 141,
+    "difficulty": 80,
+    "release_date": "2019-05-19T01:00:00"
+  },
+  {
+    "problem_number": 672,
+    "problem_name": "One more one",
+    "solvers": 233,
+    "difficulty": 50,
+    "release_date": "2019-05-26T04:00:00"
+  },
+  {
+    "problem_number": 673,
+    "problem_name": "Beds and Desks",
+    "solvers": 275,
+    "difficulty": 35,
+    "release_date": "2019-06-02T07:00:00"
+  },
+  {
+    "problem_number": 674,
+    "problem_name": "Solving $\\mathcal{I}$-equations",
+    "solvers": 151,
+    "difficulty": 75,
+    "release_date": "2019-06-09T10:00:00"
+  },
+  {
+    "problem_number": 675,
+    "problem_name": "$2^{\\omega(n)}$",
+    "solvers": 598,
+    "difficulty": 25,
+    "release_date": "2019-06-15T13:00:00"
+  },
+  {
+    "problem_number": 676,
+    "problem_name": "Matching Digit Sums",
+    "solvers": 205,
+    "difficulty": 50,
+    "release_date": "2019-06-22T16:00:00"
+  },
+  {
+    "problem_number": 677,
+    "problem_name": "Coloured Graphs",
+    "solvers": 151,
+    "difficulty": 90,
+    "release_date": "2019-06-29T19:00:00"
+  },
+  {
+    "problem_number": 678,
+    "problem_name": "Fermat-like Equations",
+    "solvers": 198,
+    "difficulty": 55,
+    "release_date": "2019-09-07T22:00:00"
+  },
+  {
+    "problem_number": 679,
+    "problem_name": "Freefarea",
+    "solvers": 652,
+    "difficulty": 20,
+    "release_date": "2019-09-15T01:00:00"
+  },
+  {
+    "problem_number": 680,
+    "problem_name": "Yarra Gnisrever",
+    "solvers": 161,
+    "difficulty": 65,
+    "release_date": "2019-09-22T04:00:00"
+  },
+  {
+    "problem_number": 681,
+    "problem_name": "Maximal Area",
+    "solvers": 197,
+    "difficulty": 50,
+    "release_date": "2019-09-29T07:00:00"
+  },
+  {
+    "problem_number": 682,
+    "problem_name": "5-Smooth Pairs",
+    "solvers": 234,
+    "difficulty": 50,
+    "release_date": "2019-10-06T10:00:00"
+  },
+  {
+    "problem_number": 683,
+    "problem_name": "The Chase II",
+    "solvers": 278,
+    "difficulty": 40,
+    "release_date": "2019-10-12T13:00:00"
+  },
+  {
+    "problem_number": 684,
+    "problem_name": "Inverse Digit Sum",
+    "solvers": 1734,
+    "difficulty": 5,
+    "release_date": "2019-10-19T16:00:00"
+  },
+  {
+    "problem_number": 685,
+    "problem_name": "Inverse Digit Sum II",
+    "solvers": 174,
+    "difficulty": 65,
+    "release_date": "2019-10-19T16:00:00"
+  },
+  {
+    "problem_number": 686,
+    "problem_name": "Powers of Two",
+    "solvers": 2213,
+    "difficulty": 5,
+    "release_date": "2019-10-26T19:00:00"
+  },
+  {
+    "problem_number": 687,
+    "problem_name": "Shuffling Cards",
+    "solvers": 238,
+    "difficulty": 45,
+    "release_date": "2019-11-02T22:00:00"
+  },
+  {
+    "problem_number": 688,
+    "problem_name": "Piles of Plates",
+    "solvers": 588,
+    "difficulty": 20,
+    "release_date": "2019-11-10T01:00:00"
+  },
+  {
+    "problem_number": 689,
+    "problem_name": "Binary Series",
+    "solvers": 191,
+    "difficulty": 60,
+    "release_date": "2019-11-17T04:00:00"
+  },
+  {
+    "problem_number": 690,
+    "problem_name": "Tom and Jerry",
+    "solvers": 161,
+    "difficulty": 60,
+    "release_date": "2019-11-24T07:00:00"
+  },
+  {
+    "problem_number": 691,
+    "problem_name": "Long substring with many repetitions",
+    "solvers": 231,
+    "difficulty": 40,
+    "release_date": "2019-12-01T10:00:00"
+  },
+  {
+    "problem_number": 692,
+    "problem_name": "Siegbert and Jo",
+    "solvers": 902,
+    "difficulty": 10,
+    "release_date": "2019-12-07T13:00:00"
+  },
+  {
+    "problem_number": 693,
+    "problem_name": "Finite Sequence Generator",
+    "solvers": 251,
+    "difficulty": 40,
+    "release_date": "2019-12-14T16:00:00"
+  },
+  {
+    "problem_number": 694,
+    "problem_name": "Cube-full Divisors",
+    "solvers": 709,
+    "difficulty": 15,
+    "release_date": "2019-12-21T19:00:00"
+  },
+  {
+    "problem_number": 695,
+    "problem_name": "Random Rectangles",
+    "solvers": 173,
+    "difficulty": 70,
+    "release_date": "2019-12-28T22:00:00"
+  },
+  {
+    "problem_number": 696,
+    "problem_name": "Mahjong",
+    "solvers": 122,
+    "difficulty": 100,
+    "release_date": "2020-01-05T01:00:00"
+  },
+  {
+    "problem_number": 697,
+    "problem_name": "Randomly Decaying Sequence",
+    "solvers": 427,
+    "difficulty": 30,
+    "release_date": "2020-01-12T04:00:00"
+  },
+  {
+    "problem_number": 698,
+    "problem_name": "123 Numbers",
+    "solvers": 344,
+    "difficulty": 30,
+    "release_date": "2020-01-19T07:00:00"
+  },
+  {
+    "problem_number": 699,
+    "problem_name": "Triffle Numbers",
+    "solvers": 149,
+    "difficulty": 80,
+    "release_date": "2020-01-26T10:00:00"
+  },
+  {
+    "problem_number": 700,
+    "problem_name": "Eulercoin",
+    "solvers": 1864,
+    "difficulty": 5,
+    "release_date": "2020-02-01T13:00:00"
+  },
+  {
+    "problem_number": 701,
+    "problem_name": "Random connected area",
+    "solvers": 254,
+    "difficulty": 40,
+    "release_date": "2020-02-08T16:00:00"
+  },
+  {
+    "problem_number": 702,
+    "problem_name": "Jumping Flea",
+    "solvers": 123,
+    "difficulty": 95,
+    "release_date": "2020-02-15T19:00:00"
+  },
+  {
+    "problem_number": 703,
+    "problem_name": "Circular Logic II",
+    "solvers": 247,
+    "difficulty": 45,
+    "release_date": "2020-02-22T22:00:00"
+  },
+  {
+    "problem_number": 704,
+    "problem_name": "Factors of Two in Binomial Coefficients",
+    "solvers": 645,
+    "difficulty": 20,
+    "release_date": "2020-03-01T01:00:00"
+  },
+  {
+    "problem_number": 705,
+    "problem_name": "Total Inversion Count of Divided Sequences",
+    "solvers": 340,
+    "difficulty": 25,
+    "release_date": "2020-03-08T04:00:00"
+  },
+  {
+    "problem_number": 706,
+    "problem_name": "3-Like Numbers",
+    "solvers": 405,
+    "difficulty": 25,
+    "release_date": "2020-03-15T07:00:00"
+  },
+  {
+    "problem_number": 707,
+    "problem_name": "Lights Out",
+    "solvers": 182,
+    "difficulty": 55,
+    "release_date": "2020-03-22T10:00:00"
+  },
+  {
+    "problem_number": 708,
+    "problem_name": "Twos are all you need",
+    "solvers": 238,
+    "difficulty": 50,
+    "release_date": "2020-03-28T13:00:00"
+  },
+  {
+    "problem_number": 709,
+    "problem_name": "Even Stevens",
+    "solvers": 537,
+    "difficulty": 15,
+    "release_date": "2020-04-04T17:00:00"
+  },
+  {
+    "problem_number": 710,
+    "problem_name": "One Million Members",
+    "solvers": 684,
+    "difficulty": 10,
+    "release_date": "2020-04-11T20:00:00"
+  },
+  {
+    "problem_number": 711,
+    "problem_name": "Binary Blackboard",
+    "solvers": 267,
+    "difficulty": 35,
+    "release_date": "2020-04-11T20:00:00"
+  },
+  {
+    "problem_number": 712,
+    "problem_name": "Exponent Difference",
+    "solvers": 357,
+    "difficulty": 25,
+    "release_date": "2020-04-18T23:00:00"
+  },
+  {
+    "problem_number": 713,
+    "problem_name": "Tur\u00e1n's water heating system",
+    "solvers": 494,
+    "difficulty": 20,
+    "release_date": "2020-04-26T02:00:00"
+  },
+  {
+    "problem_number": 714,
+    "problem_name": "Duodigits",
+    "solvers": 530,
+    "difficulty": 25,
+    "release_date": "2020-05-03T05:00:00"
+  },
+  {
+    "problem_number": 715,
+    "problem_name": "Sextuplet Norms",
+    "solvers": 157,
+    "difficulty": 60,
+    "release_date": "2020-05-10T08:00:00"
+  },
+  {
+    "problem_number": 716,
+    "problem_name": "Grid Graphs",
+    "solvers": 194,
+    "difficulty": 45,
+    "release_date": "2020-05-17T11:00:00"
+  },
+  {
+    "problem_number": 717,
+    "problem_name": "Summation of a Modular Formula",
+    "solvers": 333,
+    "difficulty": 25,
+    "release_date": "2020-05-23T14:00:00"
+  },
+  {
+    "problem_number": 718,
+    "problem_name": "Unreachable Numbers",
+    "solvers": 267,
+    "difficulty": 35,
+    "release_date": "2020-05-30T17:00:00"
+  },
+  {
+    "problem_number": 719,
+    "problem_name": "Number Splitting",
+    "solvers": 1473,
+    "difficulty": 5,
+    "release_date": "2020-06-06T20:00:00"
+  },
+  {
+    "problem_number": 720,
+    "problem_name": "Unpredictable Permutations",
+    "solvers": 240,
+    "difficulty": 35,
+    "release_date": "2020-06-13T23:00:00"
+  },
+  {
+    "problem_number": 721,
+    "problem_name": "High powers of irrational numbers",
+    "solvers": 294,
+    "difficulty": 30,
+    "release_date": "2020-06-21T02:00:00"
+  },
+  {
+    "problem_number": 722,
+    "problem_name": "Slowly converging series",
+    "solvers": 344,
+    "difficulty": 25,
+    "release_date": "2020-06-28T05:00:00"
+  },
+  {
+    "problem_number": 723,
+    "problem_name": "Pythagorean Quadrilaterals",
+    "solvers": 158,
+    "difficulty": 65,
+    "release_date": "2020-07-05T08:00:00"
+  },
+  {
+    "problem_number": 724,
+    "problem_name": "Drone Delivery",
+    "solvers": 282,
+    "difficulty": 30,
+    "release_date": "2020-09-05T14:00:00"
+  },
+  {
+    "problem_number": 725,
+    "problem_name": "Digit sum numbers",
+    "solvers": 557,
+    "difficulty": 10,
+    "release_date": "2020-09-12T17:00:00"
+  },
+  {
+    "problem_number": 726,
+    "problem_name": "Falling bottles",
+    "solvers": 152,
+    "difficulty": 50,
+    "release_date": "2020-09-19T20:00:00"
+  },
+  {
+    "problem_number": 727,
+    "problem_name": "Triangle of Circular Arcs",
+    "solvers": 329,
+    "difficulty": 25,
+    "release_date": "2020-09-26T23:00:00"
+  },
+  {
+    "problem_number": 728,
+    "problem_name": "Circle of Coins",
+    "solvers": 208,
+    "difficulty": 35,
+    "release_date": "2020-10-04T02:00:00"
+  },
+  {
+    "problem_number": 729,
+    "problem_name": "Range of periodic sequence",
+    "solvers": 127,
+    "difficulty": 60,
+    "release_date": "2020-10-11T05:00:00"
+  },
+  {
+    "problem_number": 730,
+    "problem_name": "Shifted Pythagorean Triples",
+    "solvers": 131,
+    "difficulty": 65,
+    "release_date": "2020-10-18T08:00:00"
+  },
+  {
+    "problem_number": 731,
+    "problem_name": "A Stoneham Number",
+    "solvers": 303,
+    "difficulty": 20,
+    "release_date": "2020-10-25T10:00:00"
+  },
+  {
+    "problem_number": 732,
+    "problem_name": "Standing on the shoulders of trolls",
+    "solvers": 151,
+    "difficulty": 40,
+    "release_date": "2020-10-31T13:00:00"
+  },
+  {
+    "problem_number": 733,
+    "problem_name": "Ascending subsequences",
+    "solvers": 293,
+    "difficulty": 25,
+    "release_date": "2020-11-07T16:00:00"
+  },
+  {
+    "problem_number": 734,
+    "problem_name": "A bit of prime",
+    "solvers": 212,
+    "difficulty": 35,
+    "release_date": "2020-11-14T19:00:00"
+  },
+  {
+    "problem_number": 735,
+    "problem_name": "Divisors of $2n^2$",
+    "solvers": 141,
+    "difficulty": 65,
+    "release_date": "2020-11-21T22:00:00"
+  },
+  {
+    "problem_number": 736,
+    "problem_name": "Paths to Equality",
+    "solvers": 141,
+    "difficulty": 50,
+    "release_date": "2020-11-29T01:00:00"
+  },
+  {
+    "problem_number": 746,
+    "problem_name": "A Messy Dinner",
+    "solvers": 120,
+    "difficulty": 0,
+    "release_date": "2021-02-07T07:00:00"
+  },
+  {
+    "problem_number": 745,
+    "problem_name": "Sum of Squares",
+    "solvers": 288,
+    "difficulty": 0,
+    "release_date": "2021-01-31T04:00:00"
+  },
+  {
+    "problem_number": 744,
+    "problem_name": "What? Where? When?",
+    "solvers": 159,
+    "difficulty": 0,
+    "release_date": "2021-01-24T01:00:00"
+  },
+  {
+    "problem_number": 743,
+    "problem_name": "Window into a Matrix",
+    "solvers": 374,
+    "difficulty": 0,
+    "release_date": "2021-01-16T22:00:00"
+  },
+  {
+    "problem_number": 742,
+    "problem_name": "Minimum area of a convex grid polygon",
+    "solvers": 88,
+    "difficulty": 0,
+    "release_date": "2021-01-09T19:00:00"
+  },
+  {
+    "problem_number": 741,
+    "problem_name": "Binary grid colouring",
+    "solvers": 85,
+    "difficulty": 0,
+    "release_date": "2021-01-02T16:00:00"
+  },
+  {
+    "problem_number": 740,
+    "problem_name": "Secret Santa",
+    "solvers": 131,
+    "difficulty": 0,
+    "release_date": "2020-12-26T13:00:00"
+  },
+  {
+    "problem_number": 739,
+    "problem_name": "Summation of Summations",
+    "solvers": 270,
+    "difficulty": 0,
+    "release_date": "2020-12-20T10:00:00"
+  },
+  {
+    "problem_number": 738,
+    "problem_name": "Counting Ordered Factorisations",
+    "solvers": 165,
+    "difficulty": 0,
+    "release_date": "2020-12-13T07:00:00"
+  },
+  {
+    "problem_number": 737,
+    "problem_name": "Coin Loops",
+    "solvers": 215,
+    "difficulty": 0,
+    "release_date": "2020-12-06T04:00:00"
+  }
+]
