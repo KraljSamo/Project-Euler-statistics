@@ -59,8 +59,8 @@ export default function UserPage({ data }) {
 }
 
 export const query = graphql`
-  query($slug: String!) {
-    usersJson(fields: { slug: { eq: $slug } }) {
+  query($id: String!) {
+    usersJson(id: { eq: $id }) {
       username
       standings {
         place

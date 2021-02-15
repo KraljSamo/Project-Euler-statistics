@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import styles from "./NavbarButton.module.css"
+import styles from "./navbar-button.module.css"
 
 export default function NavbarButton(props) {
   return (

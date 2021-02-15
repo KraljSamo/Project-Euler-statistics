@@ -1,7 +1,7 @@
 import React from "react"
-import SideNavbar from "../components/SideNavbar"
+import SideNavbar from "./side-navbar"
 import { Row, Col } from "reactstrap"
-import styles from "./Layout.module.css"
+import styles from "./layout.module.css"
 
 export default function Layout(props) {
   return (

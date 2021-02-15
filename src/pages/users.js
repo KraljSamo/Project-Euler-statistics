@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import Layout from "../components/Layout"
+import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
 import "./users.module.css"
 
@@ -24,7 +24,7 @@ export default function UserPage({ data }) {
     setFilteredUsers(
       allUsers
         .filter(({ node }) => node.username.includes(searchQuery))
-        .sort((a, b) => a.node.wins - b.node.wins)
+        .sort((a, b) => a.node.count - b.node.count)
         .reverse()
     )
   }, [page, searchQuery, allUsers])
@@ -49,7 +49,7 @@ export default function UserPage({ data }) {
       <div style={{ marginTop: "2rem" }}>
         <center>
           <button onClick={() => handlePageChange(-1)}>Previous page</button>
-          Current page: {page + 1}
+          Current page: {page + 1}/{(filteredUsers.length / 30 + 1).toFixed()}
           <button onClick={() => handlePageChange(1)}>Next page</button>
         </center>
       </div>
@@ -64,7 +64,7 @@ export default function UserPage({ data }) {
           return (
             <tr>
               <td>
-                <Link to={node.fields.slug}>{node.username}</Link>
+                <Link to={node.id}>{node.username}</Link>
               </td>
               <td>{node.wins}</td>
               <td>{node.count}</td>
@@ -82,12 +82,10 @@ export const query = graphql`
       totalCount
       edges {
         node {
-          fields {
-            slug
-          }
           username
           count
           wins
+          id
         }
       }
     }
