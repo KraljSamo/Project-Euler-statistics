@@ -34,12 +34,29 @@ export default function UserPage({ data }) {
   }
 
   useEffect(() => {
-    console.log(selectedDifficulties)
     let filteredQuery = allUsers.filter(({ node }) => node.username.includes(searchQuery))
-    if (["wins", "count"].includes(sortBy)) {
+    filteredQuery = filteredQuery.map(({ node }) => {
+      let wins = node.stats
+        .filter(item => selectedDifficulties.includes(item.difficultyClass))
+        .map(item => item.wins)
+        .reduce((a, b) => a + b, 0)
+      node.wins = wins
+
+      let count = node.stats
+        .filter(item => selectedDifficulties.includes(item.difficultyClass))
+        .map(item => item.count)
+        .reduce((a, b) => a + b, 0)
+      node.count = count
+
+      let eulerianPoints = node.stats
+        .filter(item => selectedDifficulties.includes(item.difficultyClass))
+        .map(item => item.eulerianPoints)
+        .reduce((a, b) => a + b, 0)
+      node.eulerianPoints = eulerianPoints
+      return { node }
+    })
+    if (["wins", "count", "eulerianPoints"].includes(sortBy)) {
       filteredQuery = filteredQuery.sort((a, b) => a.node[sortBy] - b.node[sortBy]).reverse()
-    } else if (sortBy === "username") {
-      filteredQuery = filteredQuery.sort((a, b) => a.node.username - b.node.username)
     }
     setFilteredUsers(filteredQuery)
   }, [page, searchQuery, allUsers, sortBy, selectedDifficulties])
@@ -111,14 +128,14 @@ export default function UserPage({ data }) {
             <option value="" selected={sortBy === ""}>
               default
             </option>
-            <option value="username" selected={sortBy === "username"}>
-              Username
-            </option>
             <option value="wins" selected={sortBy === "wins"}>
               #First places
             </option>
             <option value="count" selected={sortBy === "count"}>
               #In the fastests solvers table
+            </option>
+            <option value="eulerianPoints" selected={sortBy === "eulerianPoints"}>
+              Total Eulerian points
             </option>
           </select>
         </Col>
@@ -138,9 +155,10 @@ export default function UserPage({ data }) {
       <table>
         <tr>
           <th style={{ width: "5%" }}> </th>
-          <th style={{ width: "35%" }}>Username</th>
-          <th style={{ width: "30%" }}>First places</th>
-          <th style={{ width: "30%" }}>In the fastests solvers table </th>
+          <th style={{ width: "45%" }}>Username</th>
+          <th style={{ width: "16%" }}>First places</th>
+          <th style={{ width: "16%" }}>In the fastests solvers table </th>
+          <th style={{ width: "16%" }}>Total Eulerian points </th>
         </tr>
         {filteredUsers.slice(page * 30, (page + 1) * 30).map(({ node }, index) => {
           return (
@@ -155,6 +173,7 @@ export default function UserPage({ data }) {
               </td>
               <td>{node.wins}</td>
               <td>{node.count}</td>
+              <td>{node.eulerianPoints}</td>
             </tr>
           )
         })}
@@ -170,9 +189,13 @@ export const query = graphql`
       edges {
         node {
           username
-          count
-          wins
           id
+          stats {
+            difficultyClass
+            count
+            wins
+            eulerianPoints
+          }
         }
       }
     }

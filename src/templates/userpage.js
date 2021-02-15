@@ -62,7 +62,7 @@ export const query = graphql`
   query($id: String!) {
     usersJson(id: { eq: $id }) {
       username
-      standings {
+      rankings {
         place
         problem
       }
