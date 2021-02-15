@@ -1,7 +1,42 @@
-button {
+.button {
   padding: 5px 20px 5px 20px;
   background-color: #1a1918;
   margin: 0rem 2rem;
   color: orange;
+  border-radius: 5px;
+}
+
+.filter-button {
+  size: 5px;
+  padding: 0px 10px 0px 10px;
+  letter-spacing: 0.5pt;
+  font-weight: bold;
+}
+
+.filter-button-active {
+  size: 5px;
+  padding: 0px 10px 0px 10px;
+  letter-spacing: 0.5pt;
+  font-weight: bold;
+}
+
+.easy {
+  background-image: linear-gradient(to right, #56fc03, #e9f57d);
+}
+.medium {
+  background-image: linear-gradient(to right, #e9f57d, #f0c550);
+}
+.hard {
+  background-image: linear-gradient(to right, #f0c550, #df720c);
+}
+.insane {
+  background-image: linear-gradient(to right, #df720c, #f34933);
+}
+
+.filter-row {
+  margin-top: 10px;
+}
+
+.filter-select {
   border-radius: 5px;
 }
