@@ -21,9 +21,7 @@ exports.createPages = async ({ graphql, actions }) => {
       allUsersJson {
         edges {
           node {
-            fields {
-              slug
-            }
+            id
           }
         }
       }
@@ -32,12 +30,12 @@ exports.createPages = async ({ graphql, actions }) => {
 
   result.data.allUsersJson.edges.forEach(({ node }) => {
     createPage({
-      path: `/users/${node.fields.slug}`,
+      path: `/users/${node.id}`,
       component: path.resolve(`./src/templates/userpage.js`),
       context: {
         // Data passed to context is available
         // in page queries as GraphQL variables.
-        slug: node.fields.slug,
+        id: node.id,
       },
     })
   })

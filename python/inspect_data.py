@@ -19,6 +19,11 @@ for index, problem in enumerate(data):
         })
 
 with open(os.path.join(path, "..", "src", "data", "users.json"), "w") as outfile:
-    output = [{ "username" : user, "standings" : standings } for user, standings in user_data.items()]
+    output = [{ 
+        "username" : user, 
+        "standings" : standings, 
+        "count" : len(standings), 
+        "wins" : len([e for e in standings if e["place"] == 1]) } 
+        for user, standings in user_data.items()]
     print("Saving ...")
     json.dump(output, outfile, indent=2)

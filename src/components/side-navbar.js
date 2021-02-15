@@ -1,6 +1,6 @@
 import React from "react"
-import NavbarButton from "../components/NavbarButton"
-import styles from "./SideNavbar.module.css"
+import NavbarButton from "./navbar-button"
+import styles from "./side-navbar.module.css"
 
 export default function SideNavbar(props) {
   return (
@@ -12,10 +12,10 @@ export default function SideNavbar(props) {
       <br />
       <br />
       <NavbarButton to="/" name="Homepage" />
-      <NavbarButton to="/BestEulerians" name="Hall of fame" />
+      <NavbarButton to="/best-eulerians" name="Hall of fame" />
       <NavbarButton to="/users" name="User statistics" />
-      <NavbarButton to="/ProblemDifficulty" name="Problem difficulty" />
-      <NavbarButton to="/HistoricEulerians" name="Historic Eulerians" />
+      <NavbarButton to="/problem-difficulty" name="Problem difficulty" />
+      <NavbarButton to="/historic-eulerians" name="Historic Eulerians" />
     </div>
   )
 }
