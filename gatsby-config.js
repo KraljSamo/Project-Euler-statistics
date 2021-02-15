@@ -21,16 +21,16 @@ module.exports = {
     },
     "gatsby-transformer-json",
     "gatsby-plugin-react-helmet",
-    {
-      resolve: "gatsby-plugin-manifest",
-      options: {
-        name: "Project Euler statistics",
-        short_name: "PE statistics",
-        start_url: "/",
-        display: "standalone",
-        icon: "static/favicon.png",
-      },
-    },
+    // {
+    //   resolve: "gatsby-plugin-manifest",
+    //   options: {
+    //     name: "Project Euler statistics",
+    //     short_name: "PE statistics",
+    //     start_url: "/",
+    //     display: "standalone",
+    //     icon: "static/favicon.png",
+    //   },
+    // },
     `gatsby-plugin-offline`,
   ],
   pathPrefix: "/project-euler-statistics",
