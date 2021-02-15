@@ -28,7 +28,6 @@ module.exports = {
         short_name: "PE statistics",
         start_url: "/",
         display: "standalone",
-        icon: "static/favicon.ico",
       },
     },
     `gatsby-plugin-offline`,
