@@ -9,7 +9,7 @@ with open(os.path.join(path, "..", "src", "data", "fastest_solvers.json"), "r") 
 
 with open(os.path.join(path, "..", "src", "data", "problems.json"), "r") as infile:
     problem_data = json.load(infile)
-    problems = { problem["problem_num"] : problem for problem in problem_data}
+    problems = { problem["problem_number"] : problem for problem in problem_data}
 
 user_data = defaultdict(list)
 
@@ -25,15 +25,28 @@ for index, problem in enumerate(data):
         })
 
 output = []
-for user, achievements in user_data.items():
-    pass
+for user, rankings in user_data.items():
+    by_difficulty = defaultdict(lambda: { "count" : 0, "wins": 0, "eulerianPoints": 0})
+    for ranking in rankings:
+        difficulty = ranking["difficulty"]
+        if 5 <= difficulty <= 25:
+            difficulty_class = 5
+        if 30 <= difficulty <= 50:
+            difficulty_class = 30
+        if 50 <= difficulty <= 75:
+            difficulty_class = 55
+        if 80 <= difficulty <= 100:
+            difficulty_class = 80
+        by_difficulty[difficulty_class]["count"] += 1
+        by_difficulty[difficulty_class]["wins"] += int(ranking["place"] == 1)
+        by_difficulty[difficulty_class]["eulerianPoints"] += max(0, 51 - ranking["place"])
+    
+    output.append({
+        "username" : user,
+        "rankings" : rankings,
+        "stats" : [{"difficultyClass" : difficulty_class, **data} for difficulty_class, data in by_difficulty.items()]
+    })
 
-with open(os.path.join(path, "..", "src", "data", "users.json"), "w") as outfile:
-    output = [{ 
-        "username" : user, 
-        "standings" : standings, 
-        "count" : len(standings), 
-        "wins" : len([e for e in standings if e["place"] == 1]) } 
-        for user, standings in user_data.items()]
-    print("Saving ...")
+print("Saving ...")
+with open(os.path.join(path, "..", "src", "data", "users.json"), "w") as outfile:    
     json.dump(output, outfile, indent=2)
