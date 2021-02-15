@@ -14,14 +14,14 @@ export default function UserPage({ data }) {
       <h1>User: {data.usersJson.username}</h1>
       <div className="alert" style={{ backgroundColor: "#f7d281", border: "1px solid #523203" }}>
         <Row className={styles.summary}>
-          <Col>1st places: {data.usersJson.standings.filter(item => item.place === 1).length}</Col>
-          <Col>2nd places: {data.usersJson.standings.filter(item => item.place === 2).length}</Col>
-          <Col>3rd places: {data.usersJson.standings.filter(item => item.place === 3).length}</Col>
+          <Col>1st places: {data.usersJson.rankings.filter(item => item.place === 1).length}</Col>
+          <Col>2nd places: {data.usersJson.rankings.filter(item => item.place === 2).length}</Col>
+          <Col>3rd places: {data.usersJson.rankings.filter(item => item.place === 3).length}</Col>
         </Row>
         <Row className={styles.summary}>
-          <Col>Top 10 finishes: {data.usersJson.standings.filter(item => item.place <= 10).length}</Col>
-          <Col>Top 50 finishes: {data.usersJson.standings.filter(item => item.place <= 50).length}</Col>
-          <Col>In the fastests solvers table: {data.usersJson.standings.length}</Col>
+          <Col>Top 10 finishes: {data.usersJson.rankings.filter(item => item.place <= 10).length}</Col>
+          <Col>Top 50 finishes: {data.usersJson.rankings.filter(item => item.place <= 50).length}</Col>
+          <Col>In the fastests solvers table: {data.usersJson.rankings.length}</Col>
         </Row>
       </div>
 
@@ -32,7 +32,7 @@ export default function UserPage({ data }) {
           <th style={{ width: "10%" }}>Difficulty</th>
           <th style={{ width: "10%" }}>Place</th>
         </tr>
-        {data.usersJson.standings
+        {data.usersJson.rankings
           .sort((a, b) => a.place - b.place)
           .map(item => {
             const problem = getProblem(item.problem)
