@@ -5,6 +5,11 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Project Euler Statistics",
+    description: "Statistics on Project Euler users and problem difficulties",
+    author: "Samo Kralj",
+  },
   plugins: [
     // {
     //   resolve: "gatsby-plugin-typography",
@@ -31,6 +36,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    "gatsby-plugin-react-helmet",
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
@@ -43,12 +49,6 @@ module.exports = {
         },
       },
     },
-    "gatsby-plugin-react-helmet",
   ],
   pathPrefix: "/project-euler-statistics",
-  siteMetadata: {
-    title: "Project Euler Statistics",
-    description: "Statistics on Project Euler users and problem difficulties",
-    author: "Samo Kralj",
-  },
 }
