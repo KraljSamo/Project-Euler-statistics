@@ -1,0 +1,22 @@
+.text-input {
+  width: 100%;
+  border-radius: 5px;
+  border: solid 1px #1a1918;
+  box-shadow: 1px;
+}
+
+textarea {
+  width: 100%;
+}
+.textwrapper {
+  border: 1px solid #999999;
+  margin: 5px 0;
+  padding: 3px;
+}
+
+.button {
+  padding: 5px 20px 5px 20px;
+  background-color: #1a1918;
+  color: orange;
+  border-radius: 5px;
+}

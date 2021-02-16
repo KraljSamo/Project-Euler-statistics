@@ -28,10 +28,22 @@ module.exports = {
         short_name: "PE statistics",
         start_url: "/",
         display: "standalone",
-        icon: "static/favicon.png",
+        icon: "static/euler.jpg",
       },
     },
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-TKXNR9WNHP"],
+        gtagConfig: {
+          anonymize_ip: true,
+        },
+        pluginConfig: {
+          head: false,
+        },
+      },
+    },
   ],
   pathPrefix: "/project-euler-statistics",
   siteMetadata: {
