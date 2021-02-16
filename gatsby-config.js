@@ -21,17 +21,29 @@ module.exports = {
     },
     "gatsby-transformer-json",
     "gatsby-plugin-react-helmet",
-    // {
-    //   resolve: "gatsby-plugin-manifest",
-    //   options: {
-    //     name: "Project Euler statistics",
-    //     short_name: "PE statistics",
-    //     start_url: "/",
-    //     display: "standalone",
-    //     icon: "static/favicon.png",
-    //   },
-    // },
+    {
+      resolve: "gatsby-plugin-manifest",
+      options: {
+        name: "Project Euler statistics",
+        short_name: "PE statistics",
+        start_url: "/",
+        display: "standalone",
+        icon: "static/euler.jpg",
+      },
+    },
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-TKXNR9WNHP"],
+        gtagConfig: {
+          anonymize_ip: true,
+        },
+        pluginConfig: {
+          head: false,
+        },
+      },
+    },
   ],
   pathPrefix: "/project-euler-statistics",
   siteMetadata: {
