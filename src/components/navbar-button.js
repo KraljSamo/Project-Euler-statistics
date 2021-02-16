@@ -3,8 +3,7 @@ import { Link } from "gatsby"
 import styles from "./navbar-button.module.css"
 
 export default function NavbarButton(props) {
-  const className = props.development ? styles.navbarButton + " " + styles.development : styles.navbarButton
-  console.log(className)
+  const className = styles.navbarButton
   return (
     <div className={className}>
       <Link to={props.to}>

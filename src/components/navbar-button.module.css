@@ -6,10 +6,6 @@
   padding-bottom: 0.2rem;
 }
 
-.development {
-  background-color: grey;
-}
-
 .navbar-button:hover {
   background-color: rgb(71, 48, 5);
 }
