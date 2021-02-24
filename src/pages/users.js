@@ -34,7 +34,7 @@ export default function UserPage({ data }) {
   }
 
   useEffect(() => {
-    let filteredQuery = allUsers.filter(({ node }) => node.username.includes(searchQuery))
+    let filteredQuery = allUsers
     filteredQuery = filteredQuery.map(({ node }) => {
       let wins = node.stats
         .filter(item => selectedDifficulties.includes(item.difficultyClass))
@@ -58,6 +58,11 @@ export default function UserPage({ data }) {
     if (["wins", "count", "eulerianPoints"].includes(sortBy)) {
       filteredQuery = filteredQuery.sort((a, b) => a.node[sortBy] - b.node[sortBy]).reverse()
     }
+    filteredQuery = filteredQuery.map(({ node }, index) => {
+      node.place = index + 1
+      return { node }
+    })
+    filteredQuery = filteredQuery.filter(({ node }) => node.username.includes(searchQuery))
     setFilteredUsers(filteredQuery)
   }, [page, searchQuery, allUsers, sortBy, selectedDifficulties])
 
@@ -165,7 +170,7 @@ export default function UserPage({ data }) {
             <tr>
               <td>
                 <center>
-                  <strong>{page * 30 + index + 1}.</strong>
+                  <strong>{node.place}.</strong>
                 </center>
               </td>
               <td>
