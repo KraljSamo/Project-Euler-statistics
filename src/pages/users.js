@@ -129,19 +129,12 @@ export default function UserPage({ data }) {
             style={{ margin: "0 10px" }}
             className={styles.filterSelect}
             onChange={e => setSortBy(e.target.value)}
+            value={sortBy}
           >
-            <option value="" selected={sortBy === ""}>
-              default
-            </option>
-            <option value="wins" selected={sortBy === "wins"}>
-              #First places
-            </option>
-            <option value="count" selected={sortBy === "count"}>
-              #In the fastests solvers table
-            </option>
-            <option value="eulerianPoints" selected={sortBy === "eulerianPoints"}>
-              Total Eulerian points
-            </option>
+            <option value="">default</option>
+            <option value="wins">#First places</option>
+            <option value="count">#In the fastests solvers table</option>
+            <option value="eulerianPoints">Total Eulerian points</option>
           </select>
         </Col>
       </Row>
@@ -158,30 +151,34 @@ export default function UserPage({ data }) {
       </div>
       <br />
       <table>
-        <tr>
-          <th style={{ width: "5%" }}> </th>
-          <th style={{ width: "45%" }}>Username</th>
-          <th style={{ width: "16%" }}>First places</th>
-          <th style={{ width: "16%" }}>In the fastests solvers table </th>
-          <th style={{ width: "16%" }}>Total Eulerian points </th>
-        </tr>
-        {filteredUsers.slice(page * 30, (page + 1) * 30).map(({ node }, index) => {
-          return (
-            <tr>
-              <td>
-                <center>
-                  <strong>{node.place}.</strong>
-                </center>
-              </td>
-              <td>
-                <Link to={node.id}>{node.username}</Link>
-              </td>
-              <td>{node.wins}</td>
-              <td>{node.count}</td>
-              <td>{node.eulerianPoints}</td>
-            </tr>
-          )
-        })}
+        <thead>
+          <tr>
+            <th style={{ width: "5%" }}> </th>
+            <th style={{ width: "45%" }}>Username</th>
+            <th style={{ width: "16%" }}>First places</th>
+            <th style={{ width: "16%" }}>In the fastests solvers table </th>
+            <th style={{ width: "16%" }}>Total Eulerian points </th>
+          </tr>
+        </thead>
+        <tbody>
+          {filteredUsers.slice(page * 30, (page + 1) * 30).map(({ node }, index) => {
+            return (
+              <tr key={index}>
+                <td>
+                  <center>
+                    <strong>{node.place}.</strong>
+                  </center>
+                </td>
+                <td>
+                  <Link to={node.id}>{node.username}</Link>
+                </td>
+                <td>{node.wins}</td>
+                <td>{node.count}</td>
+                <td>{node.eulerianPoints}</td>
+              </tr>
+            )
+          })}
+        </tbody>
       </table>
     </Layout>
   )
