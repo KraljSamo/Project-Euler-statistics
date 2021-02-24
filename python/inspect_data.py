@@ -10,6 +10,15 @@ with open(os.path.join(path, "..", "src", "data", "fastest_solvers.json"), "r") 
 with open(os.path.join(path, "..", "src", "data", "problems.json"), "r") as infile:
     problem_data = json.load(infile)
     problems = { problem["problem_number"] : problem for problem in problem_data}
+    for problem in problems: # Add default values
+        problems[problem]["winner_solve_time_raw"] = None
+        problems[problem]["winner_solve_time_in_seconds"] = None
+        problems[problem]["top10_solve_time_raw"] = None
+        problems[problem]["top10_solve_time_in_seconds"] = None
+        problems[problem]["top50_solve_time_raw"] = None
+        problems[problem]["top50_solve_time_in_seconds"] = None
+        problems[problem]["top100_solve_time_raw"] = None
+        problems[problem]["top100_solve_time_in_seconds"] = None
 
 user_data = defaultdict(list)
 
@@ -23,6 +32,19 @@ for index, problem in enumerate(data):
             "place" : place,
             "difficulty" : problems[problem_num]["difficulty"]
         })
+        
+        if place == 1:
+            problems[problem_num]["winner_solve_time_raw"] = entry["time_raw"]
+            problems[problem_num]["winner_solve_time_in_seconds"] = entry["time_in_seconds"]
+        if place == 10:
+            problems[problem_num]["top10_solve_time_raw"] = entry["time_raw"]
+            problems[problem_num]["top10_solve_time_in_seconds"] = entry["time_in_seconds"]
+        if place == 50:
+            problems[problem_num]["top50_solve_time_raw"] = entry["time_raw"]
+            problems[problem_num]["top50_solve_time_in_seconds"] = entry["time_in_seconds"]
+        if place == 100:
+            problems[problem_num]["top100_solve_time_raw"] = entry["time_raw"]
+            problems[problem_num]["top100_solve_time_in_seconds"] = entry["time_in_seconds"]
 
 output = []
 for user, rankings in user_data.items():
@@ -50,3 +72,6 @@ for user, rankings in user_data.items():
 print("Saving ...")
 with open(os.path.join(path, "..", "src", "data", "users.json"), "w") as outfile:    
     json.dump(output, outfile, indent=2)
+
+with open(os.path.join(path, "..", "src", "data", "problems.json"), "w") as outfile:    
+    json.dump(list(problems.values()), outfile, indent=2)

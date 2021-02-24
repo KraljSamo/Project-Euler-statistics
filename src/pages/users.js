@@ -34,7 +34,7 @@ export default function UserPage({ data }) {
   }
 
   useEffect(() => {
-    let filteredQuery = allUsers.filter(({ node }) => node.username.includes(searchQuery))
+    let filteredQuery = allUsers
     filteredQuery = filteredQuery.map(({ node }) => {
       let wins = node.stats
         .filter(item => selectedDifficulties.includes(item.difficultyClass))
@@ -58,6 +58,11 @@ export default function UserPage({ data }) {
     if (["wins", "count", "eulerianPoints"].includes(sortBy)) {
       filteredQuery = filteredQuery.sort((a, b) => a.node[sortBy] - b.node[sortBy]).reverse()
     }
+    filteredQuery = filteredQuery.map(({ node }, index) => {
+      node.place = index + 1
+      return { node }
+    })
+    filteredQuery = filteredQuery.filter(({ node }) => node.username.includes(searchQuery))
     setFilteredUsers(filteredQuery)
   }, [page, searchQuery, allUsers, sortBy, selectedDifficulties])
 
@@ -124,19 +129,12 @@ export default function UserPage({ data }) {
             style={{ margin: "0 10px" }}
             className={styles.filterSelect}
             onChange={e => setSortBy(e.target.value)}
+            value={sortBy}
           >
-            <option value="" selected={sortBy === ""}>
-              default
-            </option>
-            <option value="wins" selected={sortBy === "wins"}>
-              #First places
-            </option>
-            <option value="count" selected={sortBy === "count"}>
-              #In the fastests solvers table
-            </option>
-            <option value="eulerianPoints" selected={sortBy === "eulerianPoints"}>
-              Total Eulerian points
-            </option>
+            <option value="">default</option>
+            <option value="wins">#First places</option>
+            <option value="count">#In the fastests solvers table</option>
+            <option value="eulerianPoints">Total Eulerian points</option>
           </select>
         </Col>
       </Row>
@@ -153,30 +151,34 @@ export default function UserPage({ data }) {
       </div>
       <br />
       <table>
-        <tr>
-          <th style={{ width: "5%" }}> </th>
-          <th style={{ width: "45%" }}>Username</th>
-          <th style={{ width: "16%" }}>First places</th>
-          <th style={{ width: "16%" }}>In the fastests solvers table </th>
-          <th style={{ width: "16%" }}>Total Eulerian points </th>
-        </tr>
-        {filteredUsers.slice(page * 30, (page + 1) * 30).map(({ node }, index) => {
-          return (
-            <tr>
-              <td>
-                <center>
-                  <strong>{page * 30 + index + 1}.</strong>
-                </center>
-              </td>
-              <td>
-                <Link to={node.id}>{node.username}</Link>
-              </td>
-              <td>{node.wins}</td>
-              <td>{node.count}</td>
-              <td>{node.eulerianPoints}</td>
-            </tr>
-          )
-        })}
+        <thead>
+          <tr>
+            <th style={{ width: "5%" }}> </th>
+            <th style={{ width: "45%" }}>Username</th>
+            <th style={{ width: "16%" }}>First places</th>
+            <th style={{ width: "16%" }}>In the fastests solvers table </th>
+            <th style={{ width: "16%" }}>Total Eulerian points </th>
+          </tr>
+        </thead>
+        <tbody>
+          {filteredUsers.slice(page * 30, (page + 1) * 30).map(({ node }, index) => {
+            return (
+              <tr key={index}>
+                <td>
+                  <center>
+                    <strong>{node.place}.</strong>
+                  </center>
+                </td>
+                <td>
+                  <Link to={node.id}>{node.username}</Link>
+                </td>
+                <td>{node.wins}</td>
+                <td>{node.count}</td>
+                <td>{node.eulerianPoints}</td>
+              </tr>
+            )
+          })}
+        </tbody>
       </table>
     </Layout>
   )
