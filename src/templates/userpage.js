@@ -6,7 +6,7 @@ import { Row, Col } from "reactstrap"
 
 export default function UserPage({ data }) {
   const [userRankings, setUserRankings] = useState([])
-  const [sortParamter, setSortParameter] = useState("place")
+  const [sortParameter, setSortParameter] = useState("place")
   const [ordering, setOrdering] = useState("ascending")
 
   function getProblem(number) {
@@ -21,12 +21,12 @@ export default function UserPage({ data }) {
         item.problem_name = problem.problem_name
         return item
       })
-      .sort((a, b) => a[sortParamter] - b[sortParamter])
+      .sort((a, b) => a[sortParameter] - b[sortParameter])
     if (ordering === "descending") {
       rankingsWithProblemData = rankingsWithProblemData.reverse()
     }
     setUserRankings(rankingsWithProblemData)
-  }, [data.usersJson.rankings, sortParamter, ordering])
+  }, [data.usersJson.rankings, sortParameter, ordering])
 
   return (
     <Layout>
@@ -57,7 +57,7 @@ export default function UserPage({ data }) {
       </div>
       <Row className="ml-2 mt-3 mb-3">
         Sort by:
-        <select style={{ margin: "0px 10px" }} onChange={e => setSortParameter(e.target.value)} value={sortParamter}>
+        <select style={{ margin: "0px 10px" }} onChange={e => setSortParameter(e.target.value)} value={sortParameter}>
           <option value="place">Place</option>
           <option value="problem">Problem number</option>
           <option value="difficulty">Difficulty</option>
